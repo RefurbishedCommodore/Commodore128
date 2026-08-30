@@ -9,3 +9,21 @@
 ![Name](https://img.shields.io/badge/Artwork-310381-white?style=plastic)
 ![Name](https://img.shields.io/badge/Revision-9-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
+
+# Table of contents
+
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary>TOC - Click to enlarge</summary>
+  <ul>
+    <li>
+      <a href="#starting-point">Starting point</a>
+    </li>
+    <li>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
+    </li>
+    <li>
+      <a href="#disassembly">Disassembly</a>
+    </li>
+  </ul>
+</details>
