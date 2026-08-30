@@ -27,3 +27,21 @@
     </li>
   </ul>
 </details>
+
+# Starting point
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Refurbishment activities
+
+The planned refurbishment activites for this Commodore 128 (Order may vary. Several of them in parallel):
+
+- [ ] Refurbish mainboard
+- [ ] Refurbish the keyboard
+- [ ] Refurbish the casing
+- [ ] Testing and validation
+
+The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
