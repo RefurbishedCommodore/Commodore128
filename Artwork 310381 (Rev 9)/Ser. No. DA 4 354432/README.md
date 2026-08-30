@@ -33,6 +33,17 @@
 
 # Starting point
 
+Below are some pictures of the breadbin Commodore 128 before refurbishment.
+
+<p align="center">
+    <img src="Images/Start_01.jpeg" alt="Description" width="800">
+    <img src="Images/Start_02.jpeg" alt="Description" width="800">
+    <img src="Images/Start_03.jpeg" alt="Description" width="800">
+    <img src="Images/Start_04.jpeg" alt="Description" width="800">
+    <img src="Images/Start_05.jpeg" alt="Description" width="800">
+    <img src="Images/Start_06.jpeg" alt="Description" width="800">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Refurbishment activities
