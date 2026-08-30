@@ -4,4 +4,17 @@
 
 # Commodore128
 
+# Statistics
+
+***Faulty ICs***
+
+| Chip description | Chip version | Chip Location | Number of registered defective | Comment |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+|  |   |  |  | |
+
+# Loading - in progress
+
+Sorry - none at the moment...
+
+# List - archived
 
