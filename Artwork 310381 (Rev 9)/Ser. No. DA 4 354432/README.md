@@ -28,8 +28,10 @@
   </ul>
 </details>
 
-# Starting point
 
+<!-- MARK START -->
+
+# Starting point
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -45,3 +47,8 @@ The planned refurbishment activites for this Commodore 128 (Order may vary. Seve
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+<!-- MARK STOP -->
+
+
