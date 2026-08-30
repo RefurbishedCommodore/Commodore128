@@ -42,6 +42,10 @@ Below are some pictures of the breadbin Commodore 128 before refurbishment.
     <img src="Images/Start_04.jpeg" alt="Description" width="800">
     <img src="Images/Start_05.jpeg" alt="Description" width="800">
     <img src="Images/Start_06.jpeg" alt="Description" width="800">
+    <img src="Images/Start_07.jpeg" alt="Description" width="800">
+    <img src="Images/Start_08.jpeg" alt="Description" width="800">
+    <img src="Images/Start_09.jpeg" alt="Description" width="800">
+    <img src="Images/Start_10.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
