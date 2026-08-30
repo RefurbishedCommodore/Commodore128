@@ -28,10 +28,13 @@
   </ul>
 </details>
 
-
-<!-- MARK START -->
-
 # Starting point
+
+This Commodore 128 looks really nice. As can be seen from the keyboard layout, this is a Norwegian version of the Commodore 128. Currently, I do not know whether it works or not, but from the outside it appears to be very well preserved.
+
+There is some dirt and grease, but it is minimal. The yellowing is also barely noticeable. There is a small bubble (?) on the left side of the "Commodore 128" badge, and a coin-sized mark on the right-hand side of the machine. Other than that, I cannot see any damage or major marks.
+
+From the underside, I can see that this machine has not been opened before. The warranty seal is still intact.
 
 Below are some pictures of the breadbin Commodore 128 before refurbishment.
 
@@ -42,6 +45,11 @@ Below are some pictures of the breadbin Commodore 128 before refurbishment.
     <img src="Images/Start_04.jpeg" alt="Description" width="800">
     <img src="Images/Start_05.jpeg" alt="Description" width="800">
     <img src="Images/Start_06.jpeg" alt="Description" width="800">
+</p>
+
+Another nice thing about this Commodore 128 is that the original cardboard box is still intact.
+
+<p align="center">
     <img src="Images/Start_07.jpeg" alt="Description" width="800">
     <img src="Images/Start_08.jpeg" alt="Description" width="800">
     <img src="Images/Start_09.jpeg" alt="Description" width="800">
@@ -63,6 +71,7 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
