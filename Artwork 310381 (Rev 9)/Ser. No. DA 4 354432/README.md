@@ -115,11 +115,21 @@ Note that the keyboard connector requires a small prying tool (a chip lifter can
 
 The top cover is now shifted towards the right, exposing the left-hand side. The power LED connector is now visible and can be disconnected.
 
-<!-- MARK START -->
-
 <p align="center">
     <img src="Images/DIs_05.jpeg" alt="Description" width="600">
 </p>
+
+Finally, the top cover can be lifted away from the bottom cover. The interior, largely dominated by the RF shield, is now exposed. It appears to be in very nice condition.
+
+There is some liquid residue, as can be seen in the picture below (bottom right). I suspect that this liquid may have entered through the reset switch opening, as there is some residue around the opening as well.
+
+There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal.
+
+<p align="center">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="600">
+</p>
+
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
