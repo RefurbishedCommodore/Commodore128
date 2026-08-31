@@ -141,13 +141,17 @@ So, do you think we are done now and can lift the RF shield? Nope! There is stil
     <img src="Images/Dis_08.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK START -->
-
-Finally, the RF-shield can now be lifted from the PCB. And what a pleasant view - at first glance the PCB looks to be in very good condition. A thorough visual inspection will come later.
+Finally, the RF shield can now be lifted away from the PCB. And what a pleasant view! At first glance, the PCB appears to be in very good condition. A thorough visual inspection will come later.
 
 <p align="center">
     <img src="Images/Dis_09.jpeg" alt="Description" width="900">
 </p>
+
+Lifting the PCB from the bottom cover is straightforward. The only thing to note is that the RF output connector requires some gentle wiggling to free it from the rear of the bottom cover.
+
+Below is a picture of the bottom cover. As can be seen, it is in fine condition, although it does require some cleaning.
+
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
