@@ -123,11 +123,13 @@ Finally, the top cover can be lifted away from the bottom cover. The interior, l
 
 There is some liquid residue, as can be seen in the picture below (bottom right). I suspect that this liquid may have entered through the reset switch opening, as there is some residue around the opening as well.
 
-There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal.
+There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal. See picture below - arrows with the "!" symbol mark the areas.
 
 <p align="center">
     <img src="Images/Dis_06.jpeg" alt="Description" width="800">
 </p>
+
+There six screws holding the RF-shield in place[^3]; two in the front, one at the left side and three in the back. See picture above. **NOTE:** Before the RF-shield can be lifted, the eight metal tabs (four in the front, and four on the left hand side) must be bent out of the way.
 
 <!-- MARK START -->
 
@@ -136,3 +138,4 @@ There is also some spot corrosion on the RF shield (see the boxed area), but thi
 **Footnotes**
 [^1]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
 [^2]: Phillips pan head (6.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 6.5 mm
+[^3]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
