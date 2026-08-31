@@ -151,6 +151,10 @@ Lifting the PCB from the bottom cover is straightforward. The only thing to note
 
 Below is a picture of the bottom cover. As can be seen, it is in fine condition, although it does require some cleaning.
 
+<p align="center">
+    <img src="Images/Dis_10.jpeg" alt="Description" width="900">
+</p>
+
 <!-- MARK START -->
 
 <!-- MARK STOP -->
