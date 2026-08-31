@@ -81,6 +81,13 @@ Disassembling the Commodore 128 is not difficult, but it is a bit more challengi
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+Now the process of lifting the top cover can start. This is the part where most care must be taken, and the process should be done in the following steps:
+
+1. Release the small clips on each side of the top cover
+2. Remove the ground connector and keyboard connector on the right hand side
+3. Remove the power LED connector on the left hand side
+
+
 
 <!-- MARK STOP -->
 
