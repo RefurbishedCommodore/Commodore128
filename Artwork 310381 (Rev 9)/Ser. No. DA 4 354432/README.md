@@ -87,7 +87,10 @@ Now the process of lifting the top cover can start. This is the part where most 
 2. Remove the ground connector and keyboard connector on the right hand side
 3. Remove the power LED connector on the left hand side
 
-
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
