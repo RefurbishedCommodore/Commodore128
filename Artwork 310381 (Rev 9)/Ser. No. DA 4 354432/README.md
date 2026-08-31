@@ -131,6 +131,12 @@ There is also some spot corrosion on the RF shield (see the boxed area), but thi
 
 There six screws holding the RF-shield in place[^3]; two in the front, one at the left side and three in the back. See picture above. **NOTE:** Before the RF-shield can be lifted, the eight metal tabs (four in the front, and four on the left hand side) must be bent out of the way.
 
+<p align="center">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="400">
+</p>
+
+So, do you think we are done now and can lift the RF shield? Nope! There is still one last obstacle: the metal tabs clinging to the middle screw post need to be tackled. The four metal tabs are **carefully** pried away from the plastic post.
+
 <!-- MARK START -->
 
 <!-- MARK STOP -->
