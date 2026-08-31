@@ -98,7 +98,7 @@ On each side of the top cover, there is a small plastic clip that holds it secur
 With some plastic spudgers/prying tools, the top cover is *carefully* separated from the bottom cover. Note that the plastic is brittle, so there is no need to rush this step.
 
 <p align="center">
-    <img src="Images/Dis_03.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="600">
 </p>
 
 **Step 2 — Disconnect the ground and keyboard connectors**
@@ -108,7 +108,7 @@ The top cover is gently moved so that the right-hand side of the bottom cover is
 Note that the keyboard connector requires a small prying tool (a chip lifter can be useful). **Do not pull on the wires when disconnecting this connector.**
 
 <p align="center">
-    <img src="Images/Dis_04.jpeg" alt="Description" width="800">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="600">
 </p>
 
 **Step 3 — Disconnect the power LED connector**
@@ -118,7 +118,7 @@ The top cover is now shifted towards the right, exposing the left-hand side. The
 <!-- MARK START -->
 
 <p align="center">
-    <img src="Images/Dis_05.jpeg" alt="Description" width="800">
+    <img src="Images/DIs_05.jpeg" alt="Description" width="600">
 </p>
 
 <!-- MARK STOP -->
