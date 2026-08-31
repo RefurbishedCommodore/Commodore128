@@ -105,6 +105,13 @@ With some plastic spudgers/prying tools, the top cover is *carefully* separated 
 
 **Step 2 — Disconnect the ground and keyboard connector**
 
+The top cover is gently moved so that the right hand side of the bottom cover is exposed. Now the ground connector can be unscrewed and the keyboard connector can be disconnected. Note that the keyboard connector require a small prying tool. Do not pull this connector by the wires.
+
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="800">
+</p>
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
