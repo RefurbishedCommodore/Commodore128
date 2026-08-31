@@ -143,6 +143,12 @@ So, do you think we are done now and can lift the RF shield? Nope! There is stil
 
 <!-- MARK START -->
 
+Finally, the RF-shield can now be lifted from the PCB. And what a pleasant view - at first glance the PCB looks to be in very good condition. A thorough visual inspection will come later.
+
+<p align="center">
+    <img src="Images/Dis_09.jpeg" alt="Description" width="900">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
