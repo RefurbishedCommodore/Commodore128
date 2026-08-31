@@ -117,6 +117,10 @@ The top cover is now shifted towards the right, exposing the left-hand side. The
 
 <!-- MARK START -->
 
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
