@@ -103,7 +103,7 @@ With some plastic spudgers/prying tools, the top cover is *carefully* separated 
 
 **Step 2 — Disconnect the ground and keyboard connectors**
 
-The top cover is gently moved so that the right-hand side of the bottom cover is exposed. The ground connector can now be unscrewed, and the keyboard connector can be disconnected.
+The top cover is gently moved so that the right-hand side of the bottom cover is exposed. The ground connector can now be unscrewed[^2], and the keyboard connector can be disconnected.
 
 Note that the keyboard connector requires a small prying tool (a chip lifter can be useful). **Do not pull on the wires when disconnecting this connector.**
 
@@ -126,7 +126,7 @@ There is some liquid residue, as can be seen in the picture below (bottom right)
 There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal.
 
 <p align="center">
-    <img src="Images/Dis_06.jpeg" alt="Description" width="600">
+    <img src="Images/Dis_06.jpeg" alt="Description" width="800">
 </p>
 
 <!-- MARK START -->
