@@ -71,26 +71,37 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK START -->
-
 # Disassembly
 
-Disassembling the Commodore 128 is not difficult, but it is a bit more challenging than a Commodore 64 and requires patience to avoid damaging the brittle plastic. First step is to remove the six screws from the underside[^1]: three at the front, one in the middle and two at the back.
+Disassembling the Commodore 128 is not difficult, but it is a bit more challenging than disassembling a Commodore 64. Patience is required to avoid damaging the brittle plastic.
+
+The first step is to remove the six screws from the underside[^1]: three at the front, one in the middle, and two at the back.
 
 <p align="center">
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
-Now the process of lifting the top cover can start. This is the part where most care must be taken, and the process should be done in the following steps:
+The process of lifting the top cover can now begin. This is the part where the most care must be taken, so the process should be carried out in the following steps:
 
-1. Release the small clips on each side of the top cover
-2. Remove the ground connector and keyboard connector on the right hand side
-3. Remove the power LED connector on the left hand side
+1. Release the small clips on each side of the top cover.
+2. Disconnect the ground and keyboard connectors on the right-hand side.
+3. Disconnect the power LED connector on the left-hand side.
+
+**Step 1 — Release the small clips**
+
+On each side of the top cover, there is a small plastic clip that holds it securely to the bottom cover. The locations of these clips are shown in the picture below, with the arrows pointing to them.
 
 <p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
+</p>
+
+With some plastic spudgers/prying tools, the top cover is *carefully* separated from the bottom cover. Note that the plastic is brittle, so there is no need to rush this step.
+
+<p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
 </p>
+
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
