@@ -75,7 +75,14 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
+Disassembling the Commodore 128 is not difficult, but it is a bit more challenging than a Commodore 64 and requires patience to avoid damaging the brittle plastic. First step is to remove the six screws from the underside[^1]: three at the front, one in the middle and two at the back.
+
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="800">
+</p>
+
 
 <!-- MARK STOP -->
 
-
+**Footnotes**
+[^1]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
