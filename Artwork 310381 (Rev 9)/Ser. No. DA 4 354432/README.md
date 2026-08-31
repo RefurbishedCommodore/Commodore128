@@ -103,6 +103,8 @@ With some plastic spudgers/prying tools, the top cover is *carefully* separated 
 
 <!-- MARK START -->
 
+**Step 2 — Disconnect the ground and keyboard connector**
+
 <!-- MARK STOP -->
 
 **Footnotes**
