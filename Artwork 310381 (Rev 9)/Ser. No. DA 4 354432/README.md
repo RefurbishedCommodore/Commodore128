@@ -101,16 +101,21 @@ With some plastic spudgers/prying tools, the top cover is *carefully* separated 
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK START -->
+**Step 2 — Disconnect the ground and keyboard connectors**
 
-**Step 2 — Disconnect the ground and keyboard connector**
+The top cover is gently moved so that the right-hand side of the bottom cover is exposed. The ground connector can now be unscrewed, and the keyboard connector can be disconnected.
 
-The top cover is gently moved so that the right hand side of the bottom cover is exposed. Now the ground connector can be unscrewed and the keyboard connector can be disconnected. Note that the keyboard connector require a small prying tool. Do not pull this connector by the wires.
+Note that the keyboard connector requires a small prying tool. **Do not pull on the wires when disconnecting this connector.**
 
 <p align="center">
     <img src="Images/Dis_04.jpeg" alt="Description" width="800">
 </p>
 
+**Step 3 — Disconnect the power LED connector**
+
+The top cover is now shifted towards the right, exposing the left-hand side. The power LED connector is now visible and can be disconnected.
+
+<!-- MARK START -->
 
 <!-- MARK STOP -->
 
