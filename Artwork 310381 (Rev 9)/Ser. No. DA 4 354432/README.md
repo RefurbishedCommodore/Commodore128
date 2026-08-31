@@ -105,7 +105,7 @@ With some plastic spudgers/prying tools, the top cover is *carefully* separated 
 
 The top cover is gently moved so that the right-hand side of the bottom cover is exposed. The ground connector can now be unscrewed, and the keyboard connector can be disconnected.
 
-Note that the keyboard connector requires a small prying tool. **Do not pull on the wires when disconnecting this connector.**
+Note that the keyboard connector requires a small prying tool (a chip lifter can be useful). **Do not pull on the wires when disconnecting this connector.**
 
 <p align="center">
     <img src="Images/Dis_04.jpeg" alt="Description" width="800">
@@ -121,3 +121,4 @@ The top cover is now shifted towards the right, exposing the left-hand side. The
 
 **Footnotes**
 [^1]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
+[^2]: Phillips pan head (6.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 6.5 mm
