@@ -137,6 +137,10 @@ There six screws holding the RF-shield in place[^3]; two in the front, one at th
 
 So, do you think we are done now and can lift the RF shield? Nope! There is still one last obstacle: the metal tabs clinging to the middle screw post need to be tackled. The four metal tabs are **carefully** pried away from the plastic post.
 
+<p align="center">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK START -->
 
 <!-- MARK STOP -->
