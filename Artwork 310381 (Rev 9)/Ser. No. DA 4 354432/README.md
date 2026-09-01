@@ -180,7 +180,11 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
 
 # Mainboard
 
+The mainboard is Artwork 310381 Rev 9. This is, as far as I know, the final revision of the Commodore 128 mainboard. But, alas, there are still quite a few bodge wires on the mainboard - both on the top side and the bottom side of the PCB.
+
 ## Visual inspection
+
+Visual inspection of the mainboard is probably the most important, but also the most simple and effective, thing to do when refurbishing a Commodore 128 (or any other computer for that matter). 
 
 <div align="center">
     
