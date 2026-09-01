@@ -45,6 +45,9 @@
           <a href="#adding-heatsinks">Adding heatsinks</a>
         </li>
       </ul>
+    </li>
+    <li>
+      <a href="#casing">Casing</a>
     </li>      
   </ul>
 </details>
@@ -233,7 +236,9 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 ## Checking the voltages
 
-For the Commodore 128 to work flawlessly the voltage levels needs to be with acceptable levels. It is good practice to measure these - and to rule out that there is a problem with voltages. In the table below all the measures voltages are listed (this list will also be updated after refurbishment). All the required voltages are present and within tolerances.
+For the Commodore 128 to work flawlessly, the voltage levels need to be within acceptable limits. It is good practice to measure these voltages and rule out any problems with the power supply.
+
+The table below lists all the measured voltages. This table will also be updated after refurbishment. All the required voltages are present and within tolerance.
 
 <div align="center">
   
@@ -246,10 +251,11 @@ For the Commodore 128 to work flawlessly the voltage levels needs to be with acc
 
 </div>
 
-
-
-
 <!-- MARK START -->
+
+# Casing
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
