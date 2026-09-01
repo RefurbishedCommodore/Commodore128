@@ -244,10 +244,10 @@ The table below lists all the measured voltages. This table will also be updated
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | TBA V | TBA  V | User port |
-| PSU (9V) | 9 V AC | TBA V | TBA V | User port |
-| Unregulated (9V) | 9 V DC | TBA V | TBA V | C106 |
-| Regulated (12V) | 12 V DC | TBA V | TBA V| Pin #28 SID |
+| PSU (5V) | 5 V DC | 4.805 V | TBA  V | User port |
+| PSU (9V) | 9 V AC | 9.582 V | TBA V | User port |
+| Unregulated (9V) | 9 V DC | 11.69 V | TBA V | C106 |
+| Regulated (12V) | 12 V DC | 12.00 V | TBA V| Pin #28 SID |
 
 </div>
 
