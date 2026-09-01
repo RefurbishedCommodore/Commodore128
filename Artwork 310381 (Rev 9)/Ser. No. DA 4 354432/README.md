@@ -25,6 +25,27 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#initial-testing">Initial testing</a>
+        </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-user-and-datasette-port">Cleaning the user and datasette port</a>
+        </li>
+        <li>
+          <a href="#adding-heatsinks">Adding heatsinks</a>
+        </li>
+      </ul>
+    </li>      
   </ul>
 </details>
 
@@ -156,6 +177,23 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
 </p>
 
 <!-- MARK START -->
+
+# Mainboard
+
+## Visual inspection
+
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU#1 | MOS | 8502R0 | W20 Y1987 | No |  |
+
+</div>
+
+
+
+
+
 
 <!-- MARK STOP -->
 
