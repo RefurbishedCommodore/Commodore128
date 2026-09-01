@@ -186,11 +186,17 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
     
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| CPU#1 | MOS | 8502R0 | W20 Y1987 | TBA |  |
-| CPU#2 | Zilog | Z0840006PSC | W05 Y1987 | TBA |  |
-| SID | MOS | 6581R4AR | TBA | Yes |  |
-| VIC-IIe | MOS | TBA | W19 Y1987 | Yes |  |
-| VDC | MOS | TBA | W11 Y1987 | Yes |  |
+| CPU#1 | MOS | 8502R0 | W17 Y1987 | No |  |
+| CPU#2 | Zilog | Z0840006PSC | W05 Y1987 | No |  |
+| SID | MOS | 6581R4AR | W11 Y1987 | Yes |  |
+| VIC-IIe | MOS | 8566R3 | W19 Y1987 | Yes |  |
+| VDC | MOS | 8563R9B | W11 Y1987 | Yes |  |
+| MMU | MOS | 8722R2 | W19 Y1987 | Yes |  |
+| PLA | MOS | 8721R3 | W14 Y1987 | No |  |
+| CIA#1	 | MOS | 6526A | W12 Y1987 | Yes |  |
+| CIA#2	 | MOS | 6526A | W12 Y1987 | Yes |  |
+| TBA	 | MOS | TBA | TBA | TBA |  |
+
 
 </div>
 
