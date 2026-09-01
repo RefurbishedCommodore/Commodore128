@@ -201,6 +201,7 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
 | ROM - BASIC HI | MOS | MOS 318019-02 | W10 Y1987 | Yes |  |
 | ROM - Character | Unknown | 325178-01 | Unknown | Yes | EPROM marked: "C128 Char.Nor." |
 | RAM | SAMSUNG | KM4164B-15 | Unknown | No | |
+| Glue logic |  |  |  |  | No MOS glue logic |
 
 </div>
 
