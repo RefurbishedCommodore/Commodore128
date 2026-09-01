@@ -176,6 +176,13 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
     <img src="Images/Dis_10.jpeg" alt="Description" width="900">
 </p>
 
+A final step is to bend the three metal tabs on the right-hand side of the PCB. This will release the bottom RF shield from the PCB.
+
+<p align="center">
+    <img src="Images/Dis_11.jpeg" alt="Description" width="800">
+</p>
+
+
 <!-- MARK START -->
 
 # Mainboard
