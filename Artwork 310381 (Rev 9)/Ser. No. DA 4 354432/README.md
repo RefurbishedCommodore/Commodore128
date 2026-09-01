@@ -195,7 +195,8 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
 | PLA | MOS | 8721R3 | W14 Y1987 | No |  |
 | CIA#1	 | MOS | 6526A | W12 Y1987 | Yes |  |
 | CIA#2	 | MOS | 6526A | W12 Y1987 | Yes |  |
-| TBA	 | MOS | TBA | TBA | TBA |  |
+| ROM - C64 Kernal | Unknown | 325179-01 | Unknown | Yes | EPROM marked: "C128 64 Nor." |
+| ROM - C128 Kernal | Unknown | 325177-03 | Unknown | Yes | EPROM marked: "Nor.Kern.C128" |
 
 
 </div>
