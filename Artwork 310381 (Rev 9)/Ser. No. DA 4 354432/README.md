@@ -231,6 +231,20 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 </div>
 
+## Checking the voltages
+
+For the Commodore 128 to work flawlessly the voltage levels needs to be with acceptable levels. It is good practice to measure these - and to rule out that there is a problem with voltages. In the table below all the measures voltages are listed (this list will also be updated after refurbishment). All the required voltages are present and within tolerances.
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) | 5 V DC | TBA V | TBA  V | User port |
+| PSU (9V) | 9 V AC | TBA V | TBA V | User port |
+| Unregulated (9V) | 9 V DC | TBA V | TBA V | C106 |
+| Regulated (12V) | 12 V DC | TBA V | TBA V| Pin #28 SID |
+
+</div>
 
 
 
