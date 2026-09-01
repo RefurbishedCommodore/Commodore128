@@ -197,7 +197,9 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
 | CIA#2	 | MOS | 6526A | W12 Y1987 | Yes |  |
 | ROM - C64 Kernal | Unknown | 325179-01 | Unknown | Yes | EPROM marked: "C128 64 Nor." |
 | ROM - C128 Kernal | Unknown | 325177-03 | Unknown | Yes | EPROM marked: "Nor.Kern.C128" |
-
+| ROM - BASIC LO | MOS | MOS 318018-02 | W09 Y1987 | Yes |  |
+| ROM - BASIC HI | MOS | MOS 318019-02 | W10 Y1987 | Yes |  |
+| ROM - Character | Unknown | 325178-01 | Unknown | Yes | EPROM marked: "C128 Char.Nor." |
 
 </div>
 
