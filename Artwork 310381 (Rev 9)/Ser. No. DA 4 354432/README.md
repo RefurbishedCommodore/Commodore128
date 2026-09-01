@@ -183,21 +183,30 @@ A final step is to bend the three metal tabs on the right-hand side of the PCB. 
 </p>
 
 
-<!-- MARK START -->
-
 # Mainboard
 
-The mainboard is Artwork 310381 Rev 9. This is, as far as I know, the final revision of the Commodore 128 mainboard. But, alas, there are still quite a few bodge wires on the mainboard - both on the top side and the bottom side of the PCB.
+The mainboard is an Artwork 310381 Rev 9. As far as I know, this is the final revision of the Commodore 128 mainboard. But, alas, there are still quite a few bodge wires on the mainboard, both on the top and bottom sides of the PCB.
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="900">
     <img src="Images/Main_02.jpeg" alt="Description" width="900">
 </p>
 
-
 ## Visual inspection
 
-Visual inspection of the mainboard is probably the most important, but also the most simple and effective, thing to do when refurbishing a Commodore 128 (or any other computer for that matter). 
+Visual inspection of the mainboard is probably the most important, but also one of the simplest and most effective, things to do when refurbishing a Commodore 128 (or any other computer, for that matter).
+
+The PCB is in **very** good condition. There is some dust and grease, but I cannot see any signs of corrosion. There are also no signs of leaking or bulging capacitors.
+
+Some other things to note:
+
+- There is some sticky tape in a few places along the PCB border. This is present on both the top and bottom sides of the PCB. This is normal, however, and the tape does not appear to have accumulated much dust or grease, which can contribute to corrosion. The purpose of this tape is to prevent short circuits caused by contact with the large top RF shield.
+- The datasette port shows signs of use. This is also normal, and cleaning both the user port and datasette port is good practice.
+- There is a longitudinal scratch on the CIA in position U4. This is probably not a problem, but it is worth noting.
+- All the thermal paste is completely dried out. This must be cleaned off and replaced.
+- There is some flux residue on the backside of the PCB around the RGBI, serial, and A/V connectors. The flux itself seldom affects signals on the mainboard, but old flux can become sticky and accumulate dust and moisture, which can eventually lead to corrosion.
+
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 05 of 1987 and week 19 of 1987, suggesting this Commodore 64 was likely manufactured during the summer of 1987. Late this summer Michael Jackson released the magnificent *BAD*.
 
 <div align="center">
     
@@ -226,7 +235,7 @@ Visual inspection of the mainboard is probably the most important, but also the 
 
 
 
-
+<!-- MARK START -->
 <!-- MARK STOP -->
 
 **Footnotes**
