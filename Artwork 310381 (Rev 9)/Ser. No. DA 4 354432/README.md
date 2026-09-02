@@ -295,6 +295,13 @@ There are two things I noticed on the casing:
 - There is a light circular spot on the left-hand side (above the POWER LED) of the top cover, probably from an old sticker.
 - There is a small bubble on the left side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
 
+
+<p align="center" float="left">
+    <img src="Images/Case_01.jpeg" alt="Description" width="400">
+    <img src="Images/Case_02.jpeg" alt="Description" width="400">
+</p>
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
