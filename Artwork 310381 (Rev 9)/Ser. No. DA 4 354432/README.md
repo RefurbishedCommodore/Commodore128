@@ -292,7 +292,7 @@ As mentioned, the amount of dust and grease on the outer covers of this Commodor
 
 There are two things I noticed on the casing:
 
-- There is a light circular spot on the left-hand side of the top cover, probably from an old sticker.
+- There is a light circular spot on the left-hand side (above the POWER LED) of the top cover, probably from an old sticker.
 - There is a small bubble on the left side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
 
 <!-- MARK STOP -->
