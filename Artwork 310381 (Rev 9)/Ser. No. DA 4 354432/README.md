@@ -234,6 +234,39 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 </div>
 
+## Initial testing
+
+Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
+
+When running the Diagnostic Cartridge, the full test harness is used.
+
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="1000">
+</p>
+
+The results of the initial testing are shown in the table below (see screen thumbnails)—click to enlarge:
+
+<div align="center">
+  
+| Test ID | Test area | Test criteria | Result | Comment |
+|:---------:|:----------|:----------|:----------:|:----------|
+| #1 | Boot-up (128 mode) | Default blue screen showing 122365 BASIC Bytes Free | TBA | Flashing cursor present |
+| #1 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | TBA | Flashing cursor present |
+| #2| DeadTest | Passing all tests | TBA |  |
+| #3| Diagostics Cartridge| Passing all tests | TBA | |
+| #4| DesTestMAX | Passing all memory tests | TBA | |
+| #5| DesTestFULL | Passing all memory tests | TBA | |
+
+</div>
+
+<p align="center" float="left">
+    <img src="Images/InitTest_01.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_02.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_03.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
+</p>
+
 ## Checking the voltages
 
 For the Commodore 128 to work flawlessly, the voltage levels need to be within acceptable limits. It is good practice to measure these voltages and rule out any problems with the power supply.
