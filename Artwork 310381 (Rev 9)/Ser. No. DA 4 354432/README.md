@@ -244,7 +244,7 @@ When running the Diagnostic Cartridge, the full test harness is used.
     <img src="Images/Main_03.jpeg" alt="Description" width="1000">
 </p>
 
-The results of the initial testing are shown in the table below (see screen thumbnails)—click to enlarge:
+The results of the initial testing are shown in the table below (see the screen thumbnails). Click to enlarge.
 
 <div align="center">
   
@@ -288,6 +288,12 @@ The table below lists all the measured voltages. This table will also be updated
 
 # Casing
 
+As mentioned, the amount of dust and grease on the outer covers of this Commodore 128 is minimal. The yellowing is also minimal, so there is no need to take the risk of retrobrighting. Inside the covers, there is some sticky liquid residue of some kind, but it does not appear to have caused any damage and should be easy to clean.
+
+There are two things I noticed on the casing:
+
+- There is a light circular spot on the left-hand side of the top cover, probably from an old sticker.
+- There is a small bubble on the left side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
 
 <!-- MARK STOP -->
 
