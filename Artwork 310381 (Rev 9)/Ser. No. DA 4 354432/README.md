@@ -284,8 +284,6 @@ The table below lists all the measured voltages. This table will also be updated
 
 </div>
 
-<!-- MARK START -->
-
 # Casing
 
 As mentioned, the amount of dust and grease on the outer covers of this Commodore 128 is minimal. The yellowing is also minimal, so there is no need to take the risk of retrobrighting. Inside the covers, there is some sticky liquid residue of some kind, but it does not appear to have caused any damage and should be easy to clean.
@@ -295,12 +293,18 @@ There are two things I noticed on the casing:
 - There is a light circular spot on the left-hand side (above the POWER LED) of the top cover, probably from an old sticker.
 - There is a small bubble on the left side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
 
-
 <p align="center" float="left">
     <img src="Images/Case_01.jpeg" alt="Description" width="400">
     <img src="Images/Case_02.jpeg" alt="Description" width="400">
 </p>
 
+<!-- MARK START -->
+
+To gently remove the dust and grime on the covers, they are placed in mild soapy water for about 48 hours. This will dissolve most of the grease.
+
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="600">
+</p>
 
 <!-- MARK STOP -->
 
