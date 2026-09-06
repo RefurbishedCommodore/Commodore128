@@ -324,8 +324,18 @@ To gently remove the dust and grime from the covers, they are placed in mild soa
     <img src="Images/Case_03.jpeg" alt="Description" width="600">
 </p>
 
-
 <!-- MARK START -->
+
+Below ase some pictures of the covers after cleaning.
+
+<p align="center">
+    <img src="Images/Case_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Case_05.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
