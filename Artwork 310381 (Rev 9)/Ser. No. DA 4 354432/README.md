@@ -318,14 +318,14 @@ There are two things I noticed on the casing:
     <img src="Images/Case_02.jpeg" alt="Description" width="400">
 </p>
 
-<!-- MARK START -->
-
-To gently remove the dust and grime on the covers, they are placed in mild soapy water for about 48 hours. This will dissolve most of the grease.
+To gently remove the dust and grime from the covers, they are placed in mild soapy water for about 48 hours. This helps dissolve most of the grease.
 
 <p align="center">
     <img src="Images/Case_03.jpeg" alt="Description" width="600">
 </p>
 
+
+<!-- MARK START -->
 <!-- MARK STOP -->
 
 **Footnotes**
