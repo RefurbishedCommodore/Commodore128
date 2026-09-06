@@ -39,6 +39,9 @@
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
         <li>
+          <a href="#removing-the-flux">Removing the flux</a>
+        </li>
+        <li>
           <a href="#cleaning-the-user-and-datasette-port">Cleaning the user and datasette port</a>
         </li>
         <li>
@@ -283,6 +286,14 @@ The table below lists all the measured voltages. This table will also be updated
 | Regulated (12V) | 12 V DC | 12.00 V | TBA V| Pin #28 SID |
 
 </div>
+
+## Removing the flux
+
+There is some flux residue on the mainboard. This is probably from components that were hand-soldered during manufacturing. Although the flux itself is non-conductive (and non-corrosive), it can become sticky over time. Dust and moisture can then accumulate, potentially resulting in areas with intermittent electrical conductivity.
+
+<!-- MARK START -->
+
+<!-- MARK STOP -->
 
 # Casing
 
