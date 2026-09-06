@@ -336,6 +336,8 @@ Below ase some pictures of the covers after cleaning.
     <img src="Images/Case_05.jpeg" alt="Description" width="800">
 </p>
 
+The bubble is pushed back, but... it appears to be a trench beneath (!). So, now it is like an iverted bubble. I am not sure that it looks much better, but I think this is as good as it gets. The circular spot on the left-hand side is removed with some isopropanol.
+
 <!-- MARK STOP -->
 
 **Footnotes**
