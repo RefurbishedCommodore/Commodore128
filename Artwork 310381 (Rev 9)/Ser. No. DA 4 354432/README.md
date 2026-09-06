@@ -244,7 +244,7 @@ Some initial tests are performed to check the health of the machine, determining
 When running the Diagnostic Cartridge, the full test harness is used.
 
 <p align="center">
-    <img src="Images/Main_03.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_xx.jpeg" alt="Description" width="1000">
 </p>
 
 The results of the initial testing are shown in the table below (see the screen thumbnails). Click to enlarge.
@@ -293,6 +293,15 @@ There is some flux residue on the mainboard. This is probably from components th
 
 <!-- MARK START -->
 
+<p align="center" float="left">
+    <img src="Images/Main_03.jpeg" alt="Description" width="500">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+</p>
 <!-- MARK STOP -->
 
 # Casing
