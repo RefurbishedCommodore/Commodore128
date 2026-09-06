@@ -324,8 +324,20 @@ To gently remove the dust and grime from the covers, they are placed in mild soa
     <img src="Images/Case_03.jpeg" alt="Description" width="600">
 </p>
 
-
 <!-- MARK START -->
+
+Below ase some pictures of the covers after cleaning.
+
+<p align="center">
+    <img src="Images/Case_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Case_05.jpeg" alt="Description" width="800">
+</p>
+
+The bubble is pushed back, but... it appears to be a trench beneath (!). So, now it is like an iverted bubble. I am not sure that it looks much better, but I think this is as good as it gets. The circular spot on the left-hand side is removed with some isopropanol.
+
 <!-- MARK STOP -->
 
 **Footnotes**
