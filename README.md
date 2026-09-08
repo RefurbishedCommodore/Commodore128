@@ -38,3 +38,5 @@ A faulty IC is defined as a chip that is either completely or partially non-func
 
 # List - archived
 
+Click the serial number to access the documentation.
+
