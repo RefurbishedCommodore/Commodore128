@@ -14,9 +14,9 @@ The No-Fault Ratio indicates the likelihood that a randomly selected Commodore 1
 
 <div align="center">
     
-| Total refurbished devices | Total failed initial test | NFR |
+| Total refurbished devices | Total passed initial test | NFR |
 |:----------:|:----------:|:----------:|
-| 1 | 0  | 100 % |
+| 1 | 1  | 100 % |
 
 </div>
 
