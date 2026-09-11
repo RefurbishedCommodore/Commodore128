@@ -302,6 +302,21 @@ There is some flux residue on the mainboard. This is probably from components th
     <img src="Images/Main_05.jpeg" alt="Description" width="500">
     <img src="Images/Main_06.jpeg" alt="Description" width="500">
 </p>
+
+## Cleaning the user and datasette port
+
+For the datasette, and any peripheral connected to the user port, to work flawlessy, the ports needs to be clean. Cleaning the datasette- and user port is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove the grease and oxidation without damaging the the gold plated contacts. Finally, the ports are cleaned with isopropanol.
+
+<p align="center" float="left">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+    <img src="Images/Main_08.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_09.jpeg" alt="Description" width="500">
+    <img src="Images/Main_10.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 # Casing
