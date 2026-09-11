@@ -254,20 +254,24 @@ The results of the initial testing are shown in the table below (see the screen 
 | Test ID | Test area | Test criteria | Result | Comment |
 |:---------:|:----------|:----------|:----------:|:----------|
 | #1 | Boot-up (128 mode) | Default blue screen showing 122365 BASIC Bytes Free | TBA | Flashing cursor present |
-| #1 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | TBA | Flashing cursor present |
-| #2| DeadTest | Passing all tests | TBA |  |
-| #3| Diagostics Cartridge| Passing all tests | TBA | |
-| #4| DesTestMAX | Passing all memory tests | TBA | |
-| #5| DesTestFULL | Passing all memory tests | TBA | |
+| #2 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | TBA | Flashing cursor present |
+| #3| DeadTest | Passing all tests | TBA |  |
+| #4| Diagostics Cartridge| Passing all tests | TBA | |
+| #5| DesTestMAX | Passing all memory tests | TBA | |
+| #6| DesTestFULL | Passing all memory tests | TBA | |
 
 </div>
 
 <p align="center" float="left">
-    <img src="Images/InitTest_01.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_02.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_03.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
+    <img src="Images/InitTest_01.png" alt="Description" width="250">
+    <img src="Images/InitTest_02.png" alt="Description" width="250">
+    <img src="Images/InitTest_03.png" alt="Description" width="250">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/InitTest_04.png" alt="Description" width="250">
+    <img src="Images/InitTest_05.png" alt="Description" width="250">    
+    <img src="Images/InitTest_06.png" alt="Description" width="250">    
 </p>
 
 ## Checking the voltages
