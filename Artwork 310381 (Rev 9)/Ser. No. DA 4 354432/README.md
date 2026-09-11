@@ -253,12 +253,12 @@ The results of the initial testing are shown in the table below (see the screen 
   
 | Test ID | Test area | Test criteria | Result | Comment |
 |:---------:|:----------|:----------|:----------:|:----------|
-| #1 | Boot-up (128 mode) | Default blue screen showing 122365 BASIC Bytes Free | TBA | Flashing cursor present |
-| #2 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | TBA | Flashing cursor present |
-| #3| DeadTest | Passing all tests | TBA |  |
-| #4| Diagostics Cartridge| Passing all tests | TBA | |
-| #5| DesTestMAX | Passing all memory tests | TBA | |
-| #6| DesTestFULL | Passing all memory tests | TBA | |
+| #1 | Boot-up (128 mode) | Default blue screen showing 122365 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #2 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #3| DeadTest | Passing all tests | PASSED |  |
+| #4| Diagostics Cartridge| Passing all tests | PASSED | |
+| #5| DesTestMAX | Passing all memory tests | PASSED | |
+| #6| DesTestFULL | Passing all memory tests | PASSED | |
 
 </div>
 
