@@ -258,7 +258,7 @@ The results of the initial testing are shown in the table below (see the screen 
 | #3| DeadTest | Passing all tests | PASSED |  |
 | #4| Diagostics Cartridge| Passing all tests | PASSED | |
 | #5| DesTestMAX | Passing all memory tests | PASSED | |
-| #6| DesTestFULL | Passing all memory tests | PASSED | |
+| #6| DesTestFULL | Passing all memory tests | PASSED | Kernal is RED due to expecting C64 Kernal|
 
 </div>
 
