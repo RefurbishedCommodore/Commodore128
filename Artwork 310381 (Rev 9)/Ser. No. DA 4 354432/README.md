@@ -347,6 +347,7 @@ At the same time the POWER LED is removed. The LED is held in place by a small p
     <img src="Images/Keyb_03.jpeg" alt="Description" width="600">
 </p>
 
+The keyboard is very good condition, but there are quite some dust and grease beneath the keycaps. Also, the keycaps are hardly yellowed at all.
 
 
 <!-- MARK STOP -->
