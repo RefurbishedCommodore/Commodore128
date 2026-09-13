@@ -365,6 +365,12 @@ There are some areas with corrosion on the keyboard metal frame. It is not very 
     <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
 </p>
 
+All the keycaps are placed in a box filled with mild soap water for about 24 hours. This will dissolve most of the grease and dust.
+
+<p align="center">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+</p>
+
 
 <!-- MARK STOP -->
 
