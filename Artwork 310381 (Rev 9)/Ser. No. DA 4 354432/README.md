@@ -331,7 +331,7 @@ For the datasette, and any peripheral connected to the user port, to work flawle
 
 # Keyboard
 
-First step is to remove the keyboard from the top cover. To do this the six screws (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
+First step is to remove the keyboard from the top cover. To do this the six screws[^4] (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
 
 <p align="center">
     <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
@@ -386,3 +386,5 @@ The bubble is pushed back, but... it appears to be a trench beneath (!). So, now
 [^1]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
 [^2]: Phillips pan head (6.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 6.5 mm
 [^3]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
+[^4]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
+
