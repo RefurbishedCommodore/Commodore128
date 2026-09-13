@@ -341,6 +341,14 @@ First step is to remove the keyboard from the top cover. To do this the six scre
     <img src="Images/Keyb_02.jpeg" alt="Description" width="500">
 </p>
 
+At the same time the POWER LED is removed. The LED is held in place by a small plastic piece (black) - which can be removed easily by just pulling it out.
+
+<p align="center">
+    <img src="Images/Keyb_03.jpeg" alt="Description" width="600">
+</p>
+
+
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
