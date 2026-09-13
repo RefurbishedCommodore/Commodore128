@@ -358,6 +358,14 @@ All the keycaps are removed with a [keycap](https://refurbished-commodore.com/to
 <p align="center">
     <img src="Images/Keyb_05.jpeg" alt="Description" width="1000">
 </p>
+
+There are some areas with corrosion on the keyboard metal frame. It is not very significant, but it is something that must be addressed.
+
+<p align="center">
+    <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
+</p>
+
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
