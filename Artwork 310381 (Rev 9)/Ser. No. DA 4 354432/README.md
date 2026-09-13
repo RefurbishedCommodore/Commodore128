@@ -50,6 +50,9 @@
       </ul>
     </li>
     <li>
+      <a href="#keyboard">Keyboard</a>
+    </li>
+    <li>
       <a href="#casing">Casing</a>
     </li>      
   </ul>
@@ -322,6 +325,17 @@ For the datasette, and any peripheral connected to the user port, to work flawle
 </p>
 
 <!-- MARK STOP -->
+
+<!-- MARK START -->
+
+
+# Keyboard
+
+
+<!-- MARK STOP -->
+
+<!-- MARK START -->
+
 
 # Casing
 
