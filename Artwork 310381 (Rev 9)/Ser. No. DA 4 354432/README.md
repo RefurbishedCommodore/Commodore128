@@ -359,6 +359,10 @@ All the keycaps are removed with a [keycap](https://refurbished-commodore.com/to
     <img src="Images/Keyb_05.jpeg" alt="Description" width="1000">
 </p>
 
+<p align="center">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+</p>
+
 There are some areas with corrosion on the keyboard metal frame. It is not very significant, but it is something that must be addressed.
 
 <p align="center">
@@ -368,7 +372,7 @@ There are some areas with corrosion on the keyboard metal frame. It is not very 
 All the keycaps are placed in a box filled with mild soap water for about 24 hours. This will dissolve most of the grease and dust.
 
 <p align="center">
-    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="500">
 </p>
 
 
