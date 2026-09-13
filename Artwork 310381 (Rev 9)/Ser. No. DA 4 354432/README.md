@@ -375,6 +375,7 @@ All the keycaps are placed in a box filled with mild soap water for about 24 hou
     <img src="Images/Keyb_08.jpeg" alt="Description" width="500">
 </p>
 
+Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SHIFT LOCK) and all the small screws[^5]. The wires connecting the three LOCK keys are desoldered (see arrows below where these are situated), and the LOCK keys are pushed firmly from the backside of the keyboard towards the front. This will make then pop out.
 
 <!-- MARK STOP -->
 
@@ -427,4 +428,6 @@ The bubble is pushed back, but... it appears to be a trench beneath (!). So, now
 [^2]: Phillips pan head (6.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 6.5 mm
 [^3]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
 [^4]: Phillips pan head (5.4 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 8.0 mm
+[^5]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.0 mm
+
 
