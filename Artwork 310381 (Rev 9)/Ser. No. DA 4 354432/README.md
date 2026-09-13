@@ -381,6 +381,11 @@ Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SH
     <img src="Images/Keyb_09.jpeg" alt="Description" width="1000">
 </p>
 
+<p align="center" float="left">
+    <img src="Images/Keyb_10.jpeg" alt="Description" width="300">
+    <img src="Images/Keyb_11.jpeg" alt="Description" width="300">
+</p>
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
