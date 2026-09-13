@@ -336,6 +336,11 @@ First step is to remove the keyboard from the top cover. To do this the six scre
 <p align="center">
     <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
 </p>
+
+<p align="center">
+    <img src="Images/Keyb_02.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
