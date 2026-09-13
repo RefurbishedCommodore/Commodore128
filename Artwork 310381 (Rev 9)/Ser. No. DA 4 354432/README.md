@@ -353,6 +353,8 @@ The keyboard is very good condition, but there are quite some dust and grease be
     <img src="Images/Keyb_04.jpeg" alt="Description" width="1000">
 </p>
 
+All the keycaps are removed with a [keycap](https://refurbished-commodore.com/tools) puller. By using a keycap puller the risk for damaging the keycaps, and the plungers, are significantly reduced. NOTE#1: there are some "U" shaped metal brackets beneath the "ENTER", "RETURN" and "0-keypad". NOTE#2: in addition to a normal spring, there are two small additional springs beneath the spacebar.
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
