@@ -331,7 +331,11 @@ For the datasette, and any peripheral connected to the user port, to work flawle
 
 # Keyboard
 
+First step is to remove the keyboard from the top cover. To do this the six screws (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
 
+<p align="center">
+    <img src="Images/Keyb_01.jpeg" alt="Description" width="600">
+</p>
 <!-- MARK STOP -->
 
 <!-- MARK START -->
