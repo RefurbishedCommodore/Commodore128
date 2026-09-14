@@ -386,6 +386,12 @@ Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SH
     <img src="Images/Keyb_11.jpeg" alt="Description" width="300">
 </p>
 
+With all the small screws out of the way, and the three LOCK keys desoldered, the backplate PCB can be lifted. Now the interior with all the plungers are exposed. **WARNING:** There is a tiny spring where the "+" key is (on the keypad). This is easily dropped if you don´t take proper care. 
+
+<p align="center">
+    <img src="Images/Keyb_12.jpeg" alt="Description" width="1000">
+</p>
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
