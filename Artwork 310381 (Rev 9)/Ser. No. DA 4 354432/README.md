@@ -375,7 +375,7 @@ All the keycaps are placed in a box filled with mild soap water for about 24 hou
     <img src="Images/Keyb_08.jpeg" alt="Description" width="500">
 </p>
 
-Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SHIFT LOCK) and all the small screws[^5]. The wires connecting the three LOCK keys are desoldered (see arrows below where these are situated), and the LOCK keys are pushed firmly from the backside of the keyboard towards the front. This will make then pop out.
+Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SHIFT LOCK) and all the small screws[^5]. The wires connecting the three LOCK keys are desoldered (see arrows below where these are situated).
 
 <p align="center">
     <img src="Images/Keyb_09.jpeg" alt="Description" width="1000">
