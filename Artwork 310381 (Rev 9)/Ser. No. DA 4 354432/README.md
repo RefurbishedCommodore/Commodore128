@@ -191,6 +191,7 @@ A final step is to bend the three metal tabs on the right-hand side of the PCB. 
     <img src="Images/Dis_11.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Mainboard
 
@@ -324,10 +325,11 @@ For the datasette, and any peripheral connected to the user port, to work flawle
     <img src="Images/Main_10.jpeg" alt="Description" width="500">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
-
 
 # Keyboard
 
@@ -392,6 +394,8 @@ With all the small screws out of the way, and the three LOCK keys desoldered, th
     <img src="Images/Keyb_12.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 <!-- MARK STOP -->
 
 <!-- MARK START -->
@@ -435,6 +439,8 @@ The bubble is pushed back, but... it appears to be a trench beneath (!). So, now
     <img src="Images/Case_07.jpeg" alt="Description" width="500">
     <img src="Images/Case_06.jpeg" alt="Description" width="500">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
