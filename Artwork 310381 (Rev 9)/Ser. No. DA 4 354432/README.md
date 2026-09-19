@@ -235,7 +235,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU#1 | MOS | 8502R0 | W17 Y1987 | No |  |
 | CPU#2 | ZILOG | Z0840006PSC | W05 Y1987 | No |  |
-| SID | MOS | 6581R4AR | W11 Y1987 | Yes |  |
+| SID | MOS | 6581R4AR | W11 Y1987 | Yes | The highly acclaimed version |
 | VIC-IIe | MOS | 8566R3 | W19 Y1987 | Yes |  |
 | VDC | MOS | 8563R9B | W11 Y1987 | Yes |  |
 | MMU | MOS | 8722R2 | W19 Y1987 | Yes |  |
