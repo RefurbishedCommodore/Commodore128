@@ -103,9 +103,9 @@ Another nice thing about this Commodore 128 is that the original cardboard box i
 
 The planned refurbishment activites for this Commodore 128 (Order may vary. Several of them in parallel):
 
-- [ ] Refurbish mainboard
-- [ ] Refurbish the keyboard
-- [ ] Refurbish the casing
+- [x] Refurbish mainboard
+- [x] Refurbish the keyboard
+- [x] Refurbish the casing
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
