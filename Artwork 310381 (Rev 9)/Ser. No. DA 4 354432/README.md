@@ -79,6 +79,9 @@
           <a href="#testing-the-full-64k-of-ram">Testing the full 64k of RAM</a>
         </li>
         <li>
+          <a href="#testing-the-80-column-mode">Testing the 80 column mode</a>
+        </li>
+        <li>
           <a href="#extended-testing">Extended testing</a>
         </li>
       </ul>
@@ -599,6 +602,14 @@ To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridg
 
 <p align="center">
     <img src="Images/Test_15.png" alt="Description" width="600">
+</p>
+
+## Testing the 80 column mode
+
+The Commodore 128 is able to display graphics, and characters, in 80 column mode. To enable this the "40/80 Display" LOCK key is pressed. **NOTE:** The 80 column mode is tested in monochrome mode only.
+
+<p align="center">
+    <img src="Images/Test_16.png" alt="Description" width="600">
 </p>
 
 ## Extended testing
