@@ -325,8 +325,6 @@ For the datasette, and any peripheral connected to the user port, to work flawle
     <img src="Images/Main_10.jpeg" alt="Description" width="500">
 </p>
 
-[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
 <!-- MARK STOP -->
 
 <!-- MARK START -->
@@ -336,6 +334,8 @@ For the datasette, and any peripheral connected to the user port, to work flawle
 Well, this heading is misleading. I will not add any new heatsinks since there is already a really good heatsink in the Commodore 128: the large RF-shield. The large RF-shield works both as a shield preventing electromagnetic interference from both leaving and impacting the mainboard, and also as a giant heatsink for several of the ICs. But, the old heat paste has completely dried out. So, all the old heat paste is removed and new heat paste added to all the relevant ICs. **NOTE:** when adding heat paste it is important to *only* use a thin layer. The purpose of the paste is to fill the small imperfections between the metal and the top of the ICs.
 
 Below are some pictures with the new heat paste installed.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
 <!-- MARK STOP -->
