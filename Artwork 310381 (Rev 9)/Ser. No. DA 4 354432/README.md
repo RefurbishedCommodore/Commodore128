@@ -447,6 +447,10 @@ All plungers have a piece of conductive rubber at the end of a small plastic rod
 
 By **carefully** rubbing the conductive rubber on a clean sheet of paper, the plungers can be revived.
 
+<p align="center">
+    <img src="Images/Keyb_15.jpeg" alt="Description" width="1000">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
