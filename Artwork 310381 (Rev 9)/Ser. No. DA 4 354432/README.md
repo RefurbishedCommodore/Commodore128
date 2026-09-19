@@ -65,7 +65,24 @@
     </li>
     <li>
       <a href="#casing">Casing</a>
-    </li>      
+    </li>
+    <li>
+      <a href="#testing">Testing</a>
+      <ul>
+        <li>
+          <a href="#basic-functionality-and-chips">Basic functionality and chips</a>
+        </li>
+        <li>
+          <a href="#diagnostics-test-with-harness">Diagnostics test with harness</a>
+        </li>
+        <li>
+          <a href="#testing-the-full-64k-of-ram">Testing the full 64k of RAM</a>
+        </li>
+        <li>
+          <a href="#extended-testing">Extended testing</a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </details>
 
