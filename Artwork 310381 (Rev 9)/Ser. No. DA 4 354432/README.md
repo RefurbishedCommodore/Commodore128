@@ -235,7 +235,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU#1 | MOS | 8502R0 | W17 Y1987 | No |  |
 | CPU#2 | ZILOG | Z0840006PSC | W05 Y1987 | No |  |
-| SID | MOS | 6581R4AR | W11 Y1987 | Yes |  |
+| SID | MOS | 6581R4AR | W11 Y1987 | Yes | The highly acclaimed version |
 | VIC-IIe | MOS | 8566R3 | W19 Y1987 | Yes |  |
 | VDC | MOS | 8563R9B | W11 Y1987 | Yes |  |
 | MMU | MOS | 8722R2 | W19 Y1987 | Yes |  |
@@ -546,6 +546,14 @@ Next check is to verify that all keys on the keyboard work as they should.
     <img src="Images/Test_04.png" alt="Description" width="600">
 </p>
 
+The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest MAX cartridge. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
+
+<p align="center" float="left">
+    <img src="Images/Test_05.jpeg" alt="Description" width="220">
+    <img src="Images/Test_06.jpeg" alt="Description" width="220">
+    <img src="Images/Test_07.jpeg" alt="Description" width="220">
+    <img src="Images/Test_08.jpeg" alt="Description" width="220">
+</p>
 
 <!-- MARK STOP -->
 
