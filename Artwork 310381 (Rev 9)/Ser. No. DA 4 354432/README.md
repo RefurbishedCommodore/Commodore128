@@ -628,20 +628,36 @@ Knowing that the basic functionality of the machine works, I continue testing by
 Below is a gallery with pictures from the testing. **NOTE:** The image quality is not the best due to a low quality video capture device.
 
 <p align="center" float="left">
-    <img src="Images/Test_11.jpeg" alt="Description" width="180">
-    <img src="Images/Test_12.jpeg" alt="Description" width="180">
-    <img src="Images/Test_13.jpeg" alt="Description" width="180">
-    <img src="Images/Test_14.jpeg" alt="Description" width="180">
-    <img src="Images/Test_15.jpeg" alt="Description" width="180">
+    <img src="Images/Test_20.png" alt="Description" width="180">
+    <img src="Images/Test_21.png" alt="Description" width="180">
+    <img src="Images/Test_22.png" alt="Description" width="180">
+    <img src="Images/Test_23.png" alt="Description" width="180">
+    <img src="Images/Test_24.png" alt="Description" width="180">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Test_16.jpeg" alt="Description" width="180">
-    <img src="Images/Test_17.jpeg" alt="Description" width="180">
-    <img src="Images/Test_18.jpeg" alt="Description" width="180">
-    <img src="Images/Test_19.jpeg" alt="Description" width="180">
-    <img src="Images/Test_20.jpeg" alt="Description" width="180">
+    <img src="Images/Test_25.png" alt="Description" width="180">
+    <img src="Images/Test_26.png" alt="Description" width="180">
+    <img src="Images/Test_27.png" alt="Description" width="180">
+    <img src="Images/Test_28.png" alt="Description" width="180">
+    <img src="Images/Test_29.png" alt="Description" width="180">
 </p>
+
+<p align="center" float="left">
+    <img src="Images/Test_30.png" alt="Description" width="180">
+    <img src="Images/Test_31.png" alt="Description" width="180">
+    <img src="Images/Test_32.png" alt="Description" width="180">
+    <img src="Images/Test_33.png" alt="Description" width="180">
+    <img src="Images/Test_34.png" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_35.png" alt="Description" width="180">
+    <img src="Images/Test_36.png" alt="Description" width="180">
+    <img src="Images/Test_37.png" alt="Description" width="180">
+    <img src="Images/Test_38.png" alt="Description" width="180">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
