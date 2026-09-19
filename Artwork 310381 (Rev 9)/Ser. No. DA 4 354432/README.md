@@ -349,6 +349,8 @@ Below are some pictures with the new heat paste installed.
 
 # Keyboard
 
+The keyboard is a Mitsumi 310401-01 with serial number 10870221.
+
 First step is to remove the keyboard from the top cover. To do this the six screws[^4] (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
 
 <p align="center">
@@ -408,6 +410,12 @@ With all the small screws out of the way, and the three LOCK keys desoldered, th
 
 <p align="center">
     <img src="Images/Keyb_12.jpeg" alt="Description" width="1000">
+</p>
+
+The LOCK keys are tested and cleaned properly with isopropanol.
+
+<p align="center">
+    <img src="Images/Keyb_13.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
