@@ -415,7 +415,13 @@ With all the small screws out of the way, and the three LOCK keys desoldered, th
 The LOCK keys are tested and cleaned properly with isopropanol.
 
 <p align="center">
-    <img src="Images/Keyb_13.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_13.jpeg" alt="Description" width="600">
+</p>
+
+The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. To clean the PCB no isopropanol is used since this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
+
+<p align="center">
+    <img src="Images/Keyb_14.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
