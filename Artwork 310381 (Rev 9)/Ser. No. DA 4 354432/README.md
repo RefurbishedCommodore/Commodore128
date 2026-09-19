@@ -532,7 +532,6 @@ The bubble is pushed back, but... it appears to be a trench beneath (!). So, now
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
 # Testing
 
 The proof is in the pudding—does it work?
@@ -657,6 +656,38 @@ Below is a gallery with pictures from the testing. **NOTE:** The image quality i
     <img src="Images/Test_37.png" alt="Description" width="180">
     <img src="Images/Test_38.png" alt="Description" width="180">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this Commodore 128. Hope you like it! Click to enlarge!
+
+</div>
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_02.jpeg" alt="Description" width="400">
+    <img src="Images/Final_03.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_04.jpeg" alt="Description" width="400">
+    <img src="Images/Final_05.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="800">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
