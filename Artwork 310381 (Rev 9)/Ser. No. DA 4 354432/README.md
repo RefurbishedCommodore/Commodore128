@@ -564,10 +564,17 @@ The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, 
 The Commodore 128 also have a nice feature up its sleeve: it can alter between two different fonts. By pressing the "CAPS LOCK / ASCII CC" LOCK key the alternativ charset can be enables. In the two pictures below this alternativ charset has been selected.
 
 <p align="center" float="left">
-    <img src="Images/Test_12.png" alt="Description" width="350">
     <img src="Images/Test_13.png" alt="Description" width="350">
+    <img src="Images/Test_12.png" alt="Description" width="350">
 </p>
 
+## Diagnostics test with harness
+
+To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
+
+<p align="center">
+    <img src="Images/Test_14.png" alt="Description" width="600">
+</p>
 
 <!-- MARK STOP -->
 
