@@ -612,6 +612,12 @@ The Commodore 128 is able to display graphics, and characters, in 80 column mode
     <img src="Images/Test_16.png" alt="Description" width="600">
 </p>
 
+## Testing CP/M
+
+Another feature of the Commodore 128 is that it is capable of running CP/M software designed for the Zilog Z80 processor. A simple test of the CP/M mode (in 40 column mode) is performed.
+
+
+
 ## Extended testing
 
 Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 128 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
