@@ -431,6 +431,12 @@ The LOCK keys are tested and cleaned properly with isopropanol.
     <img src="Images/Keyb_13.jpeg" alt="Description" width="600">
 </p>
 
+As previously mentioned, there are some corrosion on the metal frame. It is not significant, and is only surface rust. Nevertheless, the frame is treated with vinegar and most of the rust is scraped off. It is not worthwhile remove everything, but it is way better than before.
+
+<p align="center">
+    <img src="Images/Keyb_16.jpeg" alt="Description" width="600">
+</p>
+
 ## Cleaning the keyboard PCB
 
 The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. To clean the PCB no isopropanol is used since this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
