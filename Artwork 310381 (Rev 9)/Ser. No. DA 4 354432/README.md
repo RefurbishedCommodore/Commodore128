@@ -268,7 +268,7 @@ The results of the initial testing are shown in the table below (see the screen 
   
 | Test ID | Test area | Test criteria | Result | Comment |
 |:---------:|:----------|:----------|:----------:|:----------|
-| #1 | Boot-up (128 mode) | Default blue screen showing 122365 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #1 | Boot-up (128 mode) | Default green screen showing 122365 BASIC Bytes Free | PASSED | Flashing cursor present |
 | #2 | Boot-up (64 mode) | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
 | #3| DeadTest | Passing all tests | PASSED |  |
 | #4| Diagostics Cartridge| Passing all tests | PASSED | |
@@ -511,6 +511,35 @@ The bubble is pushed back, but... it appears to be a trench beneath (!). So, now
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Testing
+
+The proof is in the pudding—does it work?
+
+Testing is carried out in three main stages:
+
+1. Testing the basic functionality and chips
+2. Testing the complete set of custom ICs and I/O ports
+3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
+
+**NOTE:** The image quality may be poor, but this is not due to problems with the machine—it is caused by a poor video capture device.
+
+## Basic functionality and chips
+
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 128, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
+
+<p align="center">
+    <img src="Images/Test_01.jpeg" alt="Description" width="600">
+</p>
+
+The next test is to power up the Commodore 128 to the green startup screen and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 122365  BASIC Bytes Free is displayed.
+
+<p align="center" float="left">
+    <img src="Images/Test_02.jpeg" alt="Description" width="400">
+    <img src="Images/Test_03.jpeg" alt="Description" width="400">
+</p>
+
 
 <!-- MARK STOP -->
 
