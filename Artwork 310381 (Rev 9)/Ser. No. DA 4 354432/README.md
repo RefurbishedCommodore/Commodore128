@@ -546,6 +546,14 @@ Next check is to verify that all keys on the keyboard work as they should.
     <img src="Images/Test_04.png" alt="Description" width="600">
 </p>
 
+The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest MAX cartridge. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
+
+<p align="center" float="left">
+    <img src="Images/Test_05.jpeg" alt="Description" width="220">
+    <img src="Images/Test_06.jpeg" alt="Description" width="220">
+    <img src="Images/Test_07.jpeg" alt="Description" width="220">
+    <img src="Images/Test_08.jpeg" alt="Description" width="220">
+</p>
 
 <!-- MARK STOP -->
 
