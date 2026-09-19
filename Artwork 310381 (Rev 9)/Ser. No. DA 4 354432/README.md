@@ -288,10 +288,10 @@ The table below lists all the measured voltages. This table will also be updated
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | 4.805 V | TBA  V | User port |
-| PSU (9V) | 9 V AC | 9.582 V | TBA V | User port |
-| Unregulated (9V) | 9 V DC | 11.69 V | TBA V | C106 |
-| Regulated (12V) | 12 V DC | 12.00 V | TBA V| Pin #28 SID |
+| PSU (5V) | 5 V DC | 4.805 V | 4.808  V | User port |
+| PSU (9V) | 9 V AC | 9.582 V | 9.617 V | User port |
+| Unregulated (9V) | 9 V DC | 11.69 V | 11.72 V | C106 |
+| Regulated (12V) | 12 V DC | 12.00 V | 12.01 V| Pin #28 SID |
 
 </div>
 
@@ -335,12 +335,21 @@ Well, this heading is misleading. I will not add any new heatsinks since there i
 
 Below are some pictures with the new heat paste installed.
 
+<p align="center" float="left">
+    <img src="Images/Main_11.jpeg" alt="Description" width="220">
+    <img src="Images/Main_12.jpeg" alt="Description" width="220">
+    <img src="Images/Main_13.jpeg" alt="Description" width="220">
+    <img src="Images/Main_14.jpeg" alt="Description" width="220">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
 <!-- MARK STOP -->
 
 # Keyboard
+
+The keyboard is a Mitsumi 310401-01 with serial number 10870221.
 
 First step is to remove the keyboard from the top cover. To do this the six screws[^4] (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
 
@@ -401,6 +410,12 @@ With all the small screws out of the way, and the three LOCK keys desoldered, th
 
 <p align="center">
     <img src="Images/Keyb_12.jpeg" alt="Description" width="1000">
+</p>
+
+The LOCK keys are tested and cleaned properly with isopropanol.
+
+<p align="center">
+    <img src="Images/Keyb_13.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
