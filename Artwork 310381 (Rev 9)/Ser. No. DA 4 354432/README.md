@@ -549,11 +549,25 @@ Next check is to verify that all keys on the keyboard work as they should.
 The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest MAX cartridge. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
 
 <p align="center" float="left">
-    <img src="Images/Test_05.jpeg" alt="Description" width="220">
-    <img src="Images/Test_06.jpeg" alt="Description" width="220">
-    <img src="Images/Test_07.jpeg" alt="Description" width="220">
-    <img src="Images/Test_08.jpeg" alt="Description" width="220">
+    <img src="Images/Test_05.png" alt="Description" width="220">
+    <img src="Images/Test_10.png" alt="Description" width="220">
+    <img src="Images/Test_11.png" alt="Description" width="220">
 </p>
+
+<p align="center" float="left">
+    <img src="Images/Test_06.png" alt="Description" width="220">
+    <img src="Images/Test_07.png" alt="Description" width="220">
+    <img src="Images/Test_08.png" alt="Description" width="220">
+    <img src="Images/Test_09.png" alt="Description" width="220">
+</p>
+
+The Commodore 128 also have a nice feature up its sleeve: it can alter between two different fonts. By pressing the "CAPS LOCK / ASCII CC" LOCK key the alternativ charset can be enables. In the two pictures below this alternativ charset has been selected.
+
+<p align="center" float="left">
+    <img src="Images/Test_12.png" alt="Description" width="350">
+    <img src="Images/Test_13.png" alt="Description" width="350">
+</p>
+
 
 <!-- MARK STOP -->
 
