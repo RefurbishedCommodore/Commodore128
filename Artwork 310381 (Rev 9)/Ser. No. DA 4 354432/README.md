@@ -451,6 +451,13 @@ By **carefully** rubbing the conductive rubber on a clean sheet of paper, the pl
     <img src="Images/Keyb_15.jpeg" alt="Description" width="1000">
 </p>
 
+Finally the keyboard is re-assembled. It looks good as new.
+
+<p align="center">
+    <img src="Images/Keyb_16.jpeg" alt="Description" width="1000">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
