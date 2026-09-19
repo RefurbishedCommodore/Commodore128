@@ -51,6 +51,17 @@
     </li>
     <li>
       <a href="#keyboard">Keyboard</a>
+      <ul>
+        <li>
+          <a href="#removing-and-cleaning-the-keycaps">Removing and cleaning the keycaps</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-keyboard-pcb">Cleaning the keyboard PCB</a>
+        </li>
+        <li>
+          <a href="#reviving-the-keyboard-plungers">Reviving the keyboard plungers</a>
+        </li>
+      </ul>
     </li>
     <li>
       <a href="#casing">Casing</a>
@@ -373,6 +384,8 @@ The keyboard is very good condition, but there are quite some dust and grease be
     <img src="Images/Keyb_04.jpeg" alt="Description" width="1000">
 </p>
 
+## Removing and cleaning the keycaps
+
 All the keycaps are removed with a [keycap](https://refurbished-commodore.com/tools) puller. By using a keycap puller the risk for damaging the keycaps, and the plungers, are significantly reduced. **NOTE#1:** there are some "U" shaped metal brackets beneath the "ENTER", "RETURN" and "0-keypad". **NOTE#2:** in addition to a normal spring, there are two small additional springs beneath the spacebar.
 
 <p align="center">
@@ -418,11 +431,21 @@ The LOCK keys are tested and cleaned properly with isopropanol.
     <img src="Images/Keyb_13.jpeg" alt="Description" width="600">
 </p>
 
+## Cleaning the keyboard PCB
+
 The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. To clean the PCB no isopropanol is used since this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
 
 <p align="center">
     <img src="Images/Keyb_14.jpeg" alt="Description" width="1000">
 </p>
+
+## Reviving the keyboard plungers
+
+A very common issue with the Commodore 64 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
+
+All plungers have a piece of conductive rubber at the end of a small plastic rod. This conductive rubber can easily become contaminated with dust and grease, preventing the plunger from working as it should.
+
+By **carefully** rubbing the conductive rubber on a clean sheet of paper, the plungers can be revived.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
