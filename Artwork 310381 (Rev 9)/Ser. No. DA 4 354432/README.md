@@ -593,7 +593,6 @@ To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The
     <img src="Images/Test_14.png" alt="Description" width="600">
 </p>
 
-
 ## Testing the full 64k of RAM
 
 To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified. **NOTE:** This cartridge is aimed for the Commodore 64, and it does give a VERY good test of the first 64 kB of memory. And that the Kernal is shown as RED due to expecting C64 Kernal
@@ -602,6 +601,27 @@ To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridg
     <img src="Images/Test_15.png" alt="Description" width="600">
 </p>
 
+## Extended testing
+
+Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 128 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
+
+Below is a gallery with pictures from the testing. **NOTE:** The image quality is not the best due to a low quality video capture device.
+
+<p align="center" float="left">
+    <img src="Images/Test_11.jpeg" alt="Description" width="180">
+    <img src="Images/Test_12.jpeg" alt="Description" width="180">
+    <img src="Images/Test_13.jpeg" alt="Description" width="180">
+    <img src="Images/Test_14.jpeg" alt="Description" width="180">
+    <img src="Images/Test_15.jpeg" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_16.jpeg" alt="Description" width="180">
+    <img src="Images/Test_17.jpeg" alt="Description" width="180">
+    <img src="Images/Test_18.jpeg" alt="Description" width="180">
+    <img src="Images/Test_19.jpeg" alt="Description" width="180">
+    <img src="Images/Test_20.jpeg" alt="Description" width="180">
+</p>
 <!-- MARK STOP -->
 
 **Footnotes**
