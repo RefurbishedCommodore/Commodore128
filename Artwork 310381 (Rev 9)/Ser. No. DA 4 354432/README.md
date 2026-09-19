@@ -593,6 +593,15 @@ To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The
     <img src="Images/Test_14.png" alt="Description" width="600">
 </p>
 
+
+## Testing the full 64k of RAM
+
+To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified. **NOTE:** This cartridge is aimed for the Commodore 64, and it does give a VERY good test of the first 64 kB of memory.
+
+<p align="center">
+    <img src="Images/Test_15.png" alt="Description" width="600">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
