@@ -434,7 +434,7 @@ The LOCK keys are tested and cleaned properly with isopropanol.
 As previously mentioned, there are some corrosion on the metal frame. It is not significant, and is only surface rust. Nevertheless, the frame is treated with vinegar and most of the rust is scraped off. It is not worthwhile remove everything, but it is way better than before.
 
 <p align="center">
-    <img src="Images/Keyb_16.jpeg" alt="Description" width="600">
+    <img src="Images/Keyb_17.jpeg" alt="Description" width="600">
 </p>
 
 ## Cleaning the keyboard PCB
