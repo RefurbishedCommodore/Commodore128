@@ -673,14 +673,20 @@ Below is a collection of pictures of the final result of the refurbishment of th
     <img src="Images/Final_01.jpeg" alt="Description" width="800">
 </p>
 
-<p align="center" float="left">
-    <img src="Images/Final_02.jpeg" alt="Description" width="400">
-    <img src="Images/Final_03.jpeg" alt="Description" width="400">
+<p align="center">
+    <img src="Images/Final_02.jpeg" alt="Description" width="800">
 </p>
 
-<p align="center" float="left">
-    <img src="Images/Final_04.jpeg" alt="Description" width="400">
-    <img src="Images/Final_05.jpeg" alt="Description" width="400">
+<p align="center">
+    <img src="Images/Final_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center">
+    <img src="Images/Final_05.jpeg" alt="Description" width="800">
 </p>
 
 <p align="center">
