@@ -533,13 +533,14 @@ The first test is performed using the Dead Test Cartridge. This test does not co
     <img src="Images/Test_01.jpeg" alt="Description" width="600">
 </p>
 
-The next test is to power up the Commodore 128 to the green startup screen and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 122365  BASIC Bytes Free is displayed.
+The next test is to power up the Commodore 128. First to the green startup screen in C128 mode, and then to the blue startup screen in C64 mode. 
 
 <p align="center" float="left">
     <img src="Images/Test_02.jpeg" alt="Description" width="400">
     <img src="Images/Test_03.jpeg" alt="Description" width="400">
 </p>
 
+and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 122365  BASIC Bytes Free is displayed.
 
 <!-- MARK STOP -->
 
