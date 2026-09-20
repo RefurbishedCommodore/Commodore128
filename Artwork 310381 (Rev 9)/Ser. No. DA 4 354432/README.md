@@ -481,8 +481,6 @@ Finally, the keyboard is re-assembled. It looks as good as new.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK START -->
-
 # Casing
 
 As mentioned, the amount of dust and grease on the outer covers of this Commodore 128 is minimal. The yellowing is also minimal, so there is no need to take the risk of retrobrighting. Inside the covers, there is some sticky liquid residue of some kind, but it does not appear to have caused any damage and should be easy to clean.
@@ -685,6 +683,7 @@ Below is a collection of pictures showing the final result of the refurbishment 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+<!-- MARK START -->
 <!-- MARK STOP -->
 
 **Footnotes**
