@@ -86,6 +86,9 @@
         </li>
       </ul>
     </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
   </ul>
 </details>
 
