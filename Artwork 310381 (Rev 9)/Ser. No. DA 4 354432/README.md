@@ -650,9 +650,9 @@ Below is a gallery with pictures from the testing. **NOTE:** The image quality i
 
 <div align="center">
 
-*"A picture is worth a thousand words"*
+*"A picture is worth a thousand words."*
 
-Below is a collection of pictures of the final result of the refurbishment of this Commodore 128. Hope you like it! Click to enlarge!
+Below is a collection of pictures showing the final result of the refurbishment of this Commodore 128. Hope you like it! Click to enlarge!
 
 </div>
 
