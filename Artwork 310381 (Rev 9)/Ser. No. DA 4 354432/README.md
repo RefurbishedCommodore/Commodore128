@@ -226,8 +226,6 @@ A final step is to bend the three metal tabs on the right-hand side of the PCB. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK START -->
-
 # Mainboard
 
 The mainboard is an Artwork 310381 Rev 9. As far as I know, this is the final revision of the Commodore 128 mainboard. But, alas, there are still quite a few bodge wires on the mainboard, both on the top and bottom sides of the PCB.
@@ -245,13 +243,13 @@ The PCB is in **very** good condition. There is some dust and grease, but I cann
 
 Some other things to note:
 
-- There is some sticky tape in a few places along the PCB border. This is present on both the top and bottom sides of the PCB. This is normal, however, and the tape does not appear to have accumulated much dust or grease, which can contribute to corrosion. The purpose of this tape is to prevent short circuits caused by contact with the large top RF shield.
-- The datasette port shows signs of use. This is also normal, and cleaning both the user port and datasette port is good practice.
-- There is a longitudinal scratch on the CIA in position U4. This is probably not a problem, but it is worth noting.
-- All the thermal paste is completely dried out. This must be cleaned off and replaced.
-- There is some flux residue on the backside of the PCB around the RGBI, serial, and A/V connectors. The flux itself seldom affects signals on the mainboard, but old flux can become sticky and accumulate dust and moisture, which can eventually lead to corrosion.
+* There is some sticky tape in a few places along the PCB border. This is present on both the top and bottom sides of the PCB. This is normal, however, and the tape does not appear to have accumulated much dust or grease, which can contribute to corrosion. The purpose of this tape is to prevent short circuits caused by contact with the large top RF shield.
+* The datasette port shows signs of use. This is also normal, and cleaning both the user port and datasette port is good practice.
+* There is a longitudinal scratch on the CIA in position U4. This is probably not a problem, but it is worth noting.
+* All the thermal paste is completely dried out. This must be cleaned off and replaced.
+* There is some flux residue on the backside of the PCB around the RGBI, serial, and A/V connectors. The flux itself seldom affects signals on the mainboard, but old flux can become sticky and accumulate dust and moisture, which can eventually lead to corrosion.
 
-The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 05 of 1987 and week 19 of 1987, suggesting this Commodore 64 was likely manufactured during the summer of 1987. Late this summer Michael Jackson released the magnificent *BAD*.
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 05 of 1987 and week 19 of 1987, suggesting this Commodore 128 was likely manufactured during the summer of 1987. Late that summer, Michael Jackson released the magnificent *BAD*.
 
 <div align="center">
     
@@ -278,7 +276,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 ## Initial testing
 
-Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
+Some initial tests are performed to assess the health of the machine, determine whether the basic functions work as they should, and, if not, whether any useful information can be gathered from these diagnostic tools.
 
 When running the Diagnostic Cartridge, the full test harness is used.
 
@@ -315,26 +313,24 @@ The results of the initial testing are shown in the table below (see the screen 
 
 ## Checking the voltages
 
-For the Commodore 128 to work flawlessly, the voltage levels need to be within acceptable limits. It is good practice to measure these voltages and rule out any problems with the power supply.
+For the Commodore 128 to work reliably, the voltage levels need to be within acceptable limits. It is good practice to measure these voltages and rule out any problems with the power supply.
 
 The table below lists all the measured voltages. This table will also be updated after refurbishment. All the required voltages are present and within tolerance.
 
 <div align="center">
-  
-| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | 4.805 V | 4.808  V | User port |
-| PSU (9V) | 9 V AC | 9.582 V | 9.617 V | User port |
-| Unregulated (9V) | 9 V DC | 11.69 V | 11.72 V | C106 |
-| Regulated (12V) | 12 V DC | 12.00 V | 12.01 V| Pin #28 SID |
+
+|   Measure point  | Target voltage | Measured voltage<br>Before refurbish | Measured voltage<br>After refurbish |     Note    |
+| :--------------: | :------------: | :----------------------------------: | :---------------------------------: | :---------: |
+|     PSU (5V)     |     5 V DC     |                4.805 V               |               4.808 V               |  User port  |
+|     PSU (9V)     |     9 V AC     |                9.582 V               |               9.617 V               |  User port  |
+| Unregulated (9V) |     9 V DC     |                11.69 V               |               11.72 V               |     C106    |
+|  Regulated (12V) |     12 V DC    |                12.00 V               |               12.01 V               | Pin #28 SID |
 
 </div>
 
 ## Removing the flux
 
 There is some flux residue on the mainboard. This is probably from components that were hand-soldered during manufacturing. Although the flux itself is non-conductive (and non-corrosive), it can become sticky over time. Dust and moisture can then accumulate, potentially resulting in areas with intermittent electrical conductivity.
-
-<!-- MARK START -->
 
 <p align="center" float="left">
     <img src="Images/Main_03.jpeg" alt="Description" width="500">
@@ -348,7 +344,7 @@ There is some flux residue on the mainboard. This is probably from components th
 
 ## Cleaning the user and datasette port
 
-For the datasette, and any peripheral connected to the user port, to work flawlessy, the ports needs to be clean. Cleaning the datasette- and user port is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove the grease and oxidation without damaging the the gold plated contacts. Finally, the ports are cleaned with isopropanol.
+For the datasette, and any peripheral connected to the user port, to work flawlessly, the ports need to be clean. Cleaning the datasette and user ports is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove grease and oxidation without damaging the gold-plated contacts. Finally, the ports are cleaned with isopropanol.
 
 <p align="center" float="left">
     <img src="Images/Main_07.jpeg" alt="Description" width="500">
@@ -360,15 +356,11 @@ For the datasette, and any peripheral connected to the user port, to work flawle
     <img src="Images/Main_10.jpeg" alt="Description" width="500">
 </p>
 
-<!-- MARK STOP -->
-
-<!-- MARK START -->
-
 ## Adding heatsinks
 
-Well, this heading is misleading. I will not add any new heatsinks since there is already a really good heatsink in the Commodore 128: the large RF-shield. The large RF-shield works both as a shield preventing electromagnetic interference from both leaving and impacting the mainboard, and also as a giant heatsink for several of the ICs. But, the old heat paste has completely dried out. So, all the old heat paste is removed and new heat paste added to all the relevant ICs. **NOTE:** when adding heat paste it is important to *only* use a thin layer. The purpose of the paste is to fill the small imperfections between the metal and the top of the ICs.
+Well, this heading is misleading. I will not add any new heatsinks since there is already a really good heatsink in the Commodore 128: the large RF shield. The large RF shield works both as a shield, preventing electromagnetic interference from both leaving and affecting the mainboard, and as a giant heatsink for several of the ICs. But the old thermal paste has completely dried out. So, all the old thermal paste is removed and new thermal paste is added to all the relevant ICs. **NOTE:** When adding thermal paste, it is important to *only* use a thin layer. The purpose of the paste is to fill the small imperfections between the metal and the tops of the ICs.
 
-Below are some pictures with the new heat paste installed.
+Below are some pictures with the new thermal paste installed.
 
 <p align="center" float="left">
     <img src="Images/Main_11.jpeg" alt="Description" width="220">
@@ -379,14 +371,11 @@ Below are some pictures with the new heat paste installed.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
-<!-- MARK STOP -->
-
 # Keyboard
 
 The keyboard is a Mitsumi 310401-01 with serial number 10870221.
 
-First step is to remove the keyboard from the top cover. To do this the six screws[^4] (see picture below) are removed. NOTE: beneath the four screws at the top there are some small plastic wedge parts. It is good practice to keep these together with the screws to reduce the risk of loosing these.
+The first step is to remove the keyboard from the top cover. To do this, the six screws[^4] (see picture below) are removed. **NOTE:** Beneath the four screws at the top, there are some small plastic wedge-shaped parts. It is good practice to keep these together with the screws to reduce the risk of losing them.
 
 <p align="center">
     <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
@@ -396,13 +385,13 @@ First step is to remove the keyboard from the top cover. To do this the six scre
     <img src="Images/Keyb_02.jpeg" alt="Description" width="500">
 </p>
 
-At the same time the POWER LED is removed. The LED is held in place by a small plastic piece (black) - which can be removed easily by just pulling it out.
+At the same time, the POWER LED is removed. The LED is held in place by a small black plastic piece, which can be removed easily by simply pulling it out.
 
 <p align="center">
     <img src="Images/Keyb_03.jpeg" alt="Description" width="600">
 </p>
 
-The keyboard is very good condition, but there are quite some dust and grease beneath the keycaps. Also, the keycaps are hardly yellowed at all.
+The keyboard is in very good condition, but there is quite a lot of dust and grease beneath the keycaps. The keycaps are also hardly yellowed at all.
 
 <p align="center">
     <img src="Images/Keyb_04.jpeg" alt="Description" width="1000">
@@ -410,7 +399,7 @@ The keyboard is very good condition, but there are quite some dust and grease be
 
 ## Removing and cleaning the keycaps
 
-All the keycaps are removed with a [keycap](https://refurbished-commodore.com/tools) puller. By using a keycap puller the risk for damaging the keycaps, and the plungers, are significantly reduced. **NOTE#1:** there are some "U" shaped metal brackets beneath the "ENTER", "RETURN" and "0-keypad". **NOTE#2:** in addition to a normal spring, there are two small additional springs beneath the spacebar.
+All the keycaps are removed with a [keycap](https://refurbished-commodore.com/tools) puller. Using a keycap puller significantly reduces the risk of damaging the keycaps and plungers. **NOTE #1:** There are some "U"-shaped metal brackets beneath the "ENTER", "RETURN", and "0-keypad" keys. **NOTE #2:** In addition to a normal spring, there are two small additional springs beneath the spacebar.
 
 <p align="center">
     <img src="Images/Keyb_05.jpeg" alt="Description" width="1000">
@@ -420,19 +409,19 @@ All the keycaps are removed with a [keycap](https://refurbished-commodore.com/to
     <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
 </p>
 
-There are some areas with corrosion on the keyboard metal frame. It is not very significant, but it is something that must be addressed.
+There are some areas of corrosion on the keyboard metal frame. It is not very significant, but it is something that must be addressed.
 
 <p align="center">
     <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
 </p>
 
-All the keycaps are placed in a box filled with mild soap water for about 24 hours. This will dissolve most of the grease and dust.
+All the keycaps are placed in a box filled with mild soapy water for about 24 hours. This helps dissolve most of the grease and dust.
 
 <p align="center">
     <img src="Images/Keyb_08.jpeg" alt="Description" width="500">
 </p>
 
-Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SHIFT LOCK) and all the small screws[^5]. The wires connecting the three LOCK keys are desoldered (see arrows below where these are situated).
+The next step is to remove the three LOCK buttons (40/80 display, CAPS LOCK, and SHIFT LOCK) and all the small screws[^5]. The wires connecting the three LOCK keys are desoldered (see the arrows below showing where they are situated).
 
 <p align="center">
     <img src="Images/Keyb_09.jpeg" alt="Description" width="1000">
@@ -443,19 +432,19 @@ Next action is to remove the three LOCK buttons (40/80 display, CAPS LOCK and SH
     <img src="Images/Keyb_11.jpeg" alt="Description" width="300">
 </p>
 
-With all the small screws out of the way, and the three LOCK keys desoldered, the backplate PCB can be lifted. Now the interior with all the plungers are exposed. **WARNING:** There is a tiny spring where the "+" key is (on the keypad). This is easily dropped if you don´t take proper care. 
+With all the small screws out of the way and the three LOCK keys desoldered, the backplate PCB can be lifted. Now the interior, with all the plungers, is exposed. **WARNING:** There is a tiny spring where the "+" key is located (on the keypad). This is easily dropped if you don't take proper care.
 
 <p align="center">
     <img src="Images/Keyb_12.jpeg" alt="Description" width="1000">
 </p>
 
-The LOCK keys are tested and cleaned properly with isopropanol.
+The LOCK keys are tested and cleaned thoroughly with isopropanol.
 
 <p align="center">
     <img src="Images/Keyb_13.jpeg" alt="Description" width="600">
 </p>
 
-As previously mentioned, there are some corrosion on the metal frame. It is not significant, and is only surface rust. Nevertheless, the frame is treated with vinegar and most of the rust is scraped off. It is not worthwhile remove everything, but it is way better than before.
+As previously mentioned, there is some corrosion on the metal frame. It is not significant and is only surface rust. Nevertheless, the frame is treated with vinegar, and most of the rust is scraped off. It is not worthwhile to remove everything, but it is much better than before.
 
 <p align="center">
     <img src="Images/Keyb_17.jpeg" alt="Description" width="600">
@@ -463,7 +452,7 @@ As previously mentioned, there are some corrosion on the metal frame. It is not 
 
 ## Cleaning the keyboard PCB
 
-The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. To clean the PCB no isopropanol is used since this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
+The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. No isopropanol is used to clean the PCB, as this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
 
 <p align="center">
     <img src="Images/Keyb_14.jpeg" alt="Description" width="1000">
@@ -471,7 +460,7 @@ The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are 
 
 ## Reviving the keyboard plungers
 
-A very common issue with the Commodore 64 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
+A very common issue with the Commodore 128 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
 
 All plungers have a piece of conductive rubber at the end of a small plastic rod. This conductive rubber can easily become contaminated with dust and grease, preventing the plunger from working as it should.
 
@@ -481,18 +470,17 @@ By **carefully** rubbing the conductive rubber on a clean sheet of paper, the pl
     <img src="Images/Keyb_15.jpeg" alt="Description" width="1000">
 </p>
 
-Finally the keyboard is re-assembled. It looks good as new.
+Finally, the keyboard is re-assembled. It looks as good as new.
 
 <p align="center">
     <img src="Images/Keyb_16.jpeg" alt="Description" width="1000">
 </p>
 
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-<!-- MARK STOP -->
 
 <!-- MARK START -->
+
 
 
 # Casing
