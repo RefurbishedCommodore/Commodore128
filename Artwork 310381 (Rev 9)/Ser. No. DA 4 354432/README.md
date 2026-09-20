@@ -89,9 +89,6 @@
   </ul>
 </details>
 
-
-<!-- MARK START -->
-
 # Starting point
 
 This Commodore 128 looks really nice. As can be seen from the keyboard layout, this is a Norwegian version of the Commodore 128. Currently, I do not know whether it works or not, but from the outside it appears to be very well preserved.
@@ -124,14 +121,14 @@ Another nice thing about this Commodore 128 is that the original cardboard box i
 
 # Refurbishment activities
 
-The planned refurbishment activites for this Commodore 128 (Order may vary. Several of them in parallel):
+The planned refurbishment activities for this Commodore 128 are as follows (order may vary, and several activities may be carried out in parallel):
 
-- [x] Refurbish mainboard
+- [x] Refurbish the mainboard
 - [x] Refurbish the keyboard
 - [x] Refurbish the casing
 - [x] Testing and validation
 
-The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
+The plan may be updated during the refurbishment process, as areas requiring special attention are sometimes discovered.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -145,7 +142,7 @@ The first step is to remove the six screws from the underside[^1]: three at the 
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
-The process of lifting the top cover can now begin. This is the part where the most care must be taken, so the process should be carried out in the following steps:
+The process of lifting the top cover can now begin. This is the part where the most care must be taken, so it should be carried out in the following steps:
 
 1. Release the small clips on each side of the top cover.
 2. Disconnect the ground and keyboard connectors on the right-hand side.
@@ -177,23 +174,25 @@ Note that the keyboard connector requires a small prying tool (a chip lifter can
 
 **Step 3 — Disconnect the power LED connector**
 
-The top cover is now shifted towards the right, exposing the left-hand side. The power LED connector is now visible and can be disconnected.
+The top cover is now shifted towards the right, exposing the left-hand side. The power LED connector is visible and can be disconnected.
 
 <p align="center">
     <img src="Images/DIs_05.jpeg" alt="Description" width="600">
 </p>
 
-Finally, the top cover can be lifted away from the bottom cover. The interior, largely dominated by the RF shield, is now exposed. It appears to be in very nice condition.
+Finally, the top cover can be lifted away from the bottom cover. The interior, largely dominated by the RF shield, is now exposed. It appears to be in very good condition.
 
-There is some liquid residue, as can be seen in the picture below (bottom right). I suspect that this liquid may have entered through the reset switch opening, as there is some residue around the opening as well.
+There is some liquid residue, as can be seen in the picture below (bottom right). I suspect that this liquid may have entered through the reset switch opening, as there is also some residue around the opening.
 
-There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal. See picture below - arrows with the "!" symbol mark the areas.
+There is also some spot corrosion on the RF shield (see the boxed area), but this is marginal. See the picture below—the arrows with the "!" symbol mark the affected areas.
 
 <p align="center">
     <img src="Images/Dis_06.jpeg" alt="Description" width="800">
 </p>
 
-There six screws holding the RF-shield in place[^3]; two in the front, one at the left side and three in the back. See picture above. **NOTE:** Before the RF-shield can be lifted, the eight metal tabs (four in the front, and four on the left hand side) must be bent out of the way.
+There are six screws holding the RF shield in place[^3]: two at the front, one on the left-hand side, and three at the back. See the picture above.
+
+**NOTE:** Before the RF shield can be lifted, the eight metal tabs (four at the front and four on the left-hand side) must be bent out of the way.
 
 <p align="center">
     <img src="Images/Dis_07.jpeg" alt="Description" width="400">
@@ -205,7 +204,7 @@ So, do you think we are done now and can lift the RF shield? Nope! There is stil
     <img src="Images/Dis_08.jpeg" alt="Description" width="800">
 </p>
 
-Finally, the RF shield can now be lifted away from the PCB. And what a pleasant view! At first glance, the PCB appears to be in very good condition. A thorough visual inspection will come later.
+Finally, the RF shield can be lifted away from the PCB. And what a pleasant view! At first glance, the PCB appears to be in very good condition. A thorough visual inspection will come later.
 
 <p align="center">
     <img src="Images/Dis_09.jpeg" alt="Description" width="900">
@@ -219,13 +218,15 @@ Below is a picture of the bottom cover. As can be seen, it is in fine condition,
     <img src="Images/Dis_10.jpeg" alt="Description" width="900">
 </p>
 
-A final step is to bend the three metal tabs on the right-hand side of the PCB. This will release the bottom RF shield from the PCB.
+A final step is to bend the three metal tabs on the right-hand side of the PCB. This releases the bottom RF shield from the PCB.
 
 <p align="center">
     <img src="Images/Dis_11.jpeg" alt="Description" width="800">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+<!-- MARK START -->
 
 # Mainboard
 
