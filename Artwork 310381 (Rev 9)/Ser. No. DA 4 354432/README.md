@@ -89,6 +89,9 @@
   </ul>
 </details>
 
+
+<!-- MARK START -->
+
 # Starting point
 
 This Commodore 128 looks really nice. As can be seen from the keyboard layout, this is a Norwegian version of the Commodore 128. Currently, I do not know whether it works or not, but from the outside it appears to be very well preserved.
@@ -126,7 +129,7 @@ The planned refurbishment activites for this Commodore 128 (Order may vary. Seve
 - [x] Refurbish mainboard
 - [x] Refurbish the keyboard
 - [x] Refurbish the casing
-- [ ] Testing and validation
+- [x] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
 
@@ -510,8 +513,6 @@ To gently remove the dust and grime from the covers, they are placed in mild soa
 <p align="center">
     <img src="Images/Case_03.jpeg" alt="Description" width="600">
 </p>
-
-<!-- MARK START -->
 
 Below ase some pictures of the covers after cleaning.
 
