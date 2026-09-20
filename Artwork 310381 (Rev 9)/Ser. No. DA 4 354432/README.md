@@ -452,7 +452,7 @@ As previously mentioned, there is some corrosion on the metal frame. It is not s
 
 ## Cleaning the keyboard PCB
 
-The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. No isopropanol is used to clean the PCB, as this can damage the carbon pads. Instead, distilled water is used on a soft paper towel to clean the PCB.
+The keyboard PCB is a Mitsumi C-128F 56 7565 / TW-15 94HB. All contact pads are covered with a layer of carbon. To clean the PCB, distilled water is used on a soft paper towel. This gently removes dust and grease without unnecessarily abrading the carbon-coated contact pads.
 
 <p align="center">
     <img src="Images/Keyb_14.jpeg" alt="Description" width="1000">
@@ -478,10 +478,7 @@ Finally, the keyboard is re-assembled. It looks as good as new.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
 <!-- MARK START -->
-
-
 
 # Casing
 
@@ -489,8 +486,8 @@ As mentioned, the amount of dust and grease on the outer covers of this Commodor
 
 There are two things I noticed on the casing:
 
-- There is a light circular spot on the left-hand side (above the POWER LED) of the top cover, probably from an old sticker.
-- There is a small bubble on the left side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
+* There is a light circular spot on the left-hand side (above the POWER LED) of the top cover, probably from an old sticker.
+* There is a small bubble on the left-hand side of the “Commodore 128” badge. I am not sure if this bubble has been there since production or occurred later.
 
 <p align="center" float="left">
     <img src="Images/Case_01.jpeg" alt="Description" width="400">
@@ -503,7 +500,7 @@ To gently remove the dust and grime from the covers, they are placed in mild soa
     <img src="Images/Case_03.jpeg" alt="Description" width="600">
 </p>
 
-Below ase some pictures of the covers after cleaning.
+Below are some pictures of the covers after cleaning.
 
 <p align="center">
     <img src="Images/Case_04.jpeg" alt="Description" width="800">
@@ -513,7 +510,7 @@ Below ase some pictures of the covers after cleaning.
     <img src="Images/Case_05.jpeg" alt="Description" width="800">
 </p>
 
-The bubble is pushed back, but... it appears to be a trench beneath (!). So, now it is like an iverted bubble. I am not sure that it looks much better, but I think this is as good as it gets. The circular spot on the left-hand side is removed with some isopropanol.
+The bubble is pushed back, but... it appears to be a trench underneath (!). So, now it is like an inverted bubble. I am not sure that it looks much better, but I think this is as good as it gets. The circular spot on the left-hand side is removed with some isopropanol.
 
 <p align="center" float="left">
     <img src="Images/Case_07.jpeg" alt="Description" width="500">
@@ -532,24 +529,24 @@ Testing is carried out in three main stages:
 2. Testing the complete set of custom ICs and I/O ports
 3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
 
-**NOTE:** The image quality may be poor, but this is not due to problems with the machine—it is caused by a poor video capture device.
+**NOTE:** The image quality may be poor, but this is not due to any problems with the machine—it is caused by a poor video capture device.
 
 ## Basic functionality and chips
 
-The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 128, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 128, but it does verify the basic operation of major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test passes.
 
 <p align="center">
     <img src="Images/Test_01.png" alt="Description" width="600">
 </p>
 
-The next test is to power up the Commodore 128. First to the green startup screen in C128 mode (122365 BASIC bytes free), and then to the blue startup screen in C64 mode (38911 BASIC bytes free). 
+The next test is to power up the Commodore 128. First, the green startup screen is displayed in C128 mode (122365 BASIC bytes free), and then the blue startup screen is displayed in C64 mode (38911 BASIC bytes free).
 
 <p align="center" float="left">
     <img src="Images/Test_02.png" alt="Description" width="400">
     <img src="Images/Test_03.png" alt="Description" width="400">
 </p>
 
-Next check is to verify that all keys on the keyboard work as they should.
+The next check is to verify that all the keys on the keyboard work as they should.
 
 <p align="center">
     <img src="Images/Test_04.png" alt="Description" width="600">
@@ -570,7 +567,7 @@ The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, 
     <img src="Images/Test_09.png" alt="Description" width="220">
 </p>
 
-The Commodore 128 also have a nice feature up its sleeve: it can alter between two different fonts. By pressing the "CAPS LOCK / ASCII CC" LOCK key the alternativ charset can be enables. In the two pictures below this alternativ charset has been selected.
+The Commodore 128 also has a nice feature up its sleeve: it can switch between two different character sets. By pressing the "CAPS LOCK / ASCII CC" LOCK key, the alternative character set can be enabled. In the two pictures below, this alternative character set has been selected.
 
 <p align="center" float="left">
     <img src="Images/Test_13.png" alt="Description" width="350">
@@ -587,7 +584,7 @@ To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The
 
 ## Testing the full 64k of RAM
 
-To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified. **NOTE:** This cartridge is aimed for the Commodore 64, and it does give a VERY good test of the first 64 kB of memory. And that the Kernal is shown as RED due to expecting C64 Kernal
+To ensure that all 64 kB of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified. **NOTE:** This cartridge is aimed at the Commodore 64, but it provides a VERY good test of the first 64 kB of memory. The Kernal is shown in RED because the software expects the C64 Kernal.
 
 <p align="center">
     <img src="Images/Test_15.png" alt="Description" width="600">
@@ -595,7 +592,7 @@ To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridg
 
 ## Testing the 80 column mode
 
-The Commodore 128 is able to display graphics, and characters, in 80 column mode. To enable this the "40/80 Display" LOCK key is pressed. **NOTE:** The 80 column mode is tested in monochrome mode only.
+The Commodore 128 is able to display graphics and characters in 80-column mode. To enable this, the "40/80 Display" LOCK key is pressed. **NOTE:** The 80-column mode is tested in monochrome mode only.
 
 <p align="center">
     <img src="Images/Test_16.png" alt="Description" width="600">
@@ -603,7 +600,7 @@ The Commodore 128 is able to display graphics, and characters, in 80 column mode
 
 ## Testing CP/M
 
-Another feature of the Commodore 128 is that it is capable of running CP/M software designed for the Zilog Z80 processor. A simple test of the CP/M mode (in 40 column mode) is performed.
+Another feature of the Commodore 128 is that it is capable of running CP/M software designed for the Zilog Z80 processor. A simple test of the CP/M mode (in 40-column mode) is performed.
 
 <p align="center" float="left">
     <img src="Images/Test_17.png" alt="Description" width="350">
@@ -614,7 +611,7 @@ Another feature of the Commodore 128 is that it is capable of running CP/M softw
 
 Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 128 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
 
-Below is a gallery with pictures from the testing. **NOTE:** The image quality is not the best due to a low quality video capture device.
+Below is a gallery with pictures from the testing. **NOTE:** The image quality is not the best due to a low-quality video capture device.
 
 <p align="center" float="left">
     <img src="Images/Test_20.png" alt="Description" width="180">
